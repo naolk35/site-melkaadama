@@ -1439,21 +1439,15 @@ Minimum version required to store current data is: `+c+`.
             gap: 6px !important;
           }
         }
-      `})]})},{Text:SU}=lV;function CU(e,t){let n=[];for(let r=0;r<e.length;r+=t)n.push(e.slice(r,r+t));return n}var wU=({student:e})=>{let t=e.CityZone||e.Branch||`Adama`,n=e.FullName||`${e.FirstName||``} ${e.MiddleName||``} ${e.LastName||``}`.trim(),r=e.LabourID||e.SN||``,i=e.Age||``,a=e.Gender||e.Sex||``,o=e.Subject||`DOMESTIC WORK`,s=e.AssessmentCenter||(e.CityZone?`Malka ${e.CityZone} DW`:`${BH.instituteName.short} DW`);return(0,Q.jsxs)(`div`,{className:`adm-card`,children:[(0,Q.jsx)(`table`,{className:`adm-header-table`,children:(0,Q.jsx)(`tbody`,{children:(0,Q.jsxs)(`tr`,{children:[(0,Q.jsx)(`td`,{className:`adm-cell-logo`,children:(0,Q.jsx)(`img`,{src:`/admission_logo.png`,alt:`Logo`,className:`adm-logo-crest`,onError:e=>{e.target.src=`/logo.png`}})}),(0,Q.jsxs)(`td`,{className:`adm-cell-center`,children:[(0,Q.jsx)(`div`,{className:`adm-company-subtitle`,children:`Maqaa Mana Hojii / Company Name`}),(0,Q.jsx)(`div`,{className:`adm-org-line1`,children:`Ejensii Mirkaneessa Gahumsa Ogummaa Oromiyaa`}),(0,Q.jsx)(`div`,{className:`adm-org-line2`,children:`የኦሮሚያ የሙያ ብቃት ማረጋገጫ ኤጄንሲ`}),(0,Q.jsx)(`div`,{className:`adm-org-line3`,children:`Oromia Occupational Competence Assurance Agency`})]}),(0,Q.jsxs)(`td`,{className:`adm-cell-right`,children:[(0,Q.jsxs)(`div`,{className:`adm-meta-label`,children:[`Lakk.Sanadaa /`,(0,Q.jsx)(`br`,{}),`Document No.`]}),(0,Q.jsx)(`div`,{className:`adm-doc-number`,children:`OF/OCAPD/002`})]})]})})}),(0,Q.jsx)(`table`,{className:`adm-title-table`,children:(0,Q.jsx)(`tbody`,{children:(0,Q.jsxs)(`tr`,{children:[(0,Q.jsx)(`td`,{className:`adm-ttl-meta`,children:`Mata-duree/Title`}),(0,Q.jsxs)(`td`,{className:`adm-ttl-heading`,children:[(0,Q.jsx)(`div`,{className:`adm-ttl-oromo`,children:`Unkaa Waraqaa Eenyummaa Madaalamaa`}),(0,Q.jsx)(`div`,{className:`adm-ttl-english`,children:`Candidate Identification Card Form`})]}),(0,Q.jsxs)(`td`,{className:`adm-ttl-issue`,children:[`Lakk.Maxxan`,(0,Q.jsx)(`br`,{}),`saa/Issue No.`,(0,Q.jsx)(`br`,{}),(0,Q.jsx)(`strong`,{children:`01`})]}),(0,Q.jsxs)(`td`,{className:`adm-ttl-page`,children:[`Fuula/Page`,(0,Q.jsx)(`br`,{}),`No.`,(0,Q.jsx)(`br`,{}),(0,Q.jsx)(`strong`,{children:`Page 1 of 1`})]})]})})}),(0,Q.jsxs)(`div`,{className:`adm-card-body`,children:[(0,Q.jsxs)(`div`,{className:`adm-fields-area`,children:[(0,Q.jsxs)(`div`,{className:`adm-field-row`,children:[(0,Q.jsx)(`span`,{className:`adm-label`,children:`Brach:`}),(0,Q.jsx)(`span`,{className:`adm-value-line`,style:{minWidth:`160px`},children:t})]}),(0,Q.jsxs)(`div`,{className:`adm-field-row`,children:[(0,Q.jsx)(`span`,{className:`adm-label`,children:`Full Name:`}),(0,Q.jsx)(`span`,{className:`adm-value-line adm-name-bold`,style:{minWidth:`210px`},children:n})]}),(0,Q.jsxs)(`div`,{className:`adm-field-row`,children:[(0,Q.jsx)(`span`,{className:`adm-label`,children:`Reg.No.`}),(0,Q.jsx)(`span`,{className:`adm-value-line`,style:{minWidth:`180px`},children:r})]}),(0,Q.jsxs)(`div`,{className:`adm-field-row`,children:[(0,Q.jsx)(`span`,{className:`adm-label`,children:`Age`}),(0,Q.jsx)(`span`,{className:`adm-value-line`,style:{minWidth:`60px`,textAlign:`center`},children:i}),(0,Q.jsx)(`span`,{className:`adm-label`,style:{marginLeft:`18px`},children:`Sex`}),(0,Q.jsx)(`span`,{className:`adm-value-line`,style:{minWidth:`70px`,textAlign:`center`},children:a})]}),(0,Q.jsxs)(`div`,{className:`adm-field-row`,children:[(0,Q.jsx)(`span`,{className:`adm-label`,children:`Occupation`}),(0,Q.jsx)(`span`,{className:`adm-value-line`,style:{minWidth:`190px`},children:o})]}),(0,Q.jsxs)(`div`,{className:`adm-field-row`,children:[(0,Q.jsx)(`span`,{className:`adm-label`,children:`Assessment Center :`}),(0,Q.jsx)(`span`,{className:`adm-value-line`,style:{minWidth:`165px`},children:s})]}),(0,Q.jsx)(`div`,{className:`adm-legal-notice`,children:`This card is to be presented by the candidate at the session of the assessment for which he/she is registered. It is illegal for the candidate to attempt to sit for the occupation for which he/she is not registered.`}),(0,Q.jsx)(`div`,{className:`adm-sig-underline-container`,children:(0,Q.jsx)(`span`,{className:`adm-sig-underline`})})]}),(0,Q.jsx)(`div`,{className:`adm-photo-container`,children:(0,Q.jsxs)(`div`,{className:`adm-photo-box`,children:[(0,Q.jsx)(`span`,{className:`adm-photo-tag`,children:`3x4`}),(0,Q.jsx)(`span`,{className:`adm-photo-sub`,children:`PHOTO`})]})})]})]})},TU=({students:e,onClose:t})=>{let n=CU(e,4);return(0,Q.jsxs)(Q.Fragment,{children:[(0,Q.jsx)(`style`,{children:`
+      `})]})},{Text:SU}=lV;function CU(e,t){let n=[];for(let r=0;r<e.length;r+=t)n.push(e.slice(r,r+t));return n}var wU=({student:e})=>{let t=e.CityZone||e.Branch||BH.instituteName.short,n=e.FullName||`${e.FirstName||``} ${e.MiddleName||``} ${e.LastName||``}`.trim(),r=e.SN||``,i=e.LabourID||e.SN||``,a=e.Age||``,o=e.Gender||e.Sex||``,s=e.Subject||`DOMESTIC WORK`,c=e.AssessmentCenter||BH.instituteName.english;return(0,Q.jsxs)(`div`,{className:`adm-card`,children:[(0,Q.jsx)(`table`,{className:`adm-header-table`,children:(0,Q.jsx)(`tbody`,{children:(0,Q.jsxs)(`tr`,{children:[(0,Q.jsx)(`td`,{className:`adm-cell-logo`,children:(0,Q.jsx)(`img`,{src:`/admission_logo.png`,alt:`Logo`,className:`adm-logo-crest`,onError:e=>{e.target.src=`/logo.png`}})}),(0,Q.jsxs)(`td`,{className:`adm-cell-center`,children:[(0,Q.jsx)(`div`,{className:`adm-company-subtitle`,children:`Maqaa Mana Hojii / Company Name`}),(0,Q.jsx)(`div`,{className:`adm-company-name`,children:BH.instituteName.english}),(0,Q.jsx)(`div`,{className:`adm-org-line1`,children:`Ejensii Mirkaneessa Gahumsa Ogummaa Oromiyaa`}),(0,Q.jsx)(`div`,{className:`adm-org-line2`,children:`የኦሮሚያ የሙያ ብቃት ማረጋገጫ ኤጄንሲ`}),(0,Q.jsx)(`div`,{className:`adm-org-line3`,children:`Oromia Occupational Competence Assurance Agency`})]}),(0,Q.jsxs)(`td`,{className:`adm-cell-right`,children:[(0,Q.jsxs)(`div`,{className:`adm-meta-label`,children:[`Lakk.Sanadaa /`,(0,Q.jsx)(`br`,{}),`Document No.`]}),(0,Q.jsx)(`div`,{className:`adm-doc-number`,children:`OF/OCAPD/002`}),(0,Q.jsx)(`div`,{className:`adm-sn-label`,children:`SN`}),(0,Q.jsx)(`div`,{className:`adm-sn-value`,children:r})]})]})})}),(0,Q.jsx)(`table`,{className:`adm-title-table`,children:(0,Q.jsx)(`tbody`,{children:(0,Q.jsxs)(`tr`,{children:[(0,Q.jsxs)(`td`,{className:`adm-ttl-meta`,children:[`Mata-duree/`,(0,Q.jsx)(`br`,{}),`Title`]}),(0,Q.jsxs)(`td`,{className:`adm-ttl-heading`,children:[(0,Q.jsx)(`div`,{className:`adm-ttl-oromo`,children:`Unkaa Waraqaa Eenyummaa Madaalamaa`}),(0,Q.jsx)(`div`,{className:`adm-ttl-english`,children:`Candidate Identification Card Form`})]}),(0,Q.jsxs)(`td`,{className:`adm-ttl-issue`,children:[`Lakk.Maxxan`,(0,Q.jsx)(`br`,{}),`saa/Issue No.`,(0,Q.jsx)(`br`,{}),(0,Q.jsx)(`strong`,{children:`01`})]}),(0,Q.jsxs)(`td`,{className:`adm-ttl-page`,children:[`Fuula/Page`,(0,Q.jsx)(`br`,{}),`No.`,(0,Q.jsx)(`br`,{}),(0,Q.jsx)(`strong`,{children:`1 of 1`})]})]})})}),(0,Q.jsxs)(`div`,{className:`adm-card-body`,children:[(0,Q.jsxs)(`div`,{className:`adm-fields-area`,children:[(0,Q.jsxs)(`div`,{className:`adm-field-row`,children:[(0,Q.jsx)(`span`,{className:`adm-label`,children:`Branch:`}),(0,Q.jsxs)(`span`,{className:`adm-value-wrap`,style:{minWidth:`160px`},children:[(0,Q.jsx)(`span`,{className:`adm-val-text`,children:t}),(0,Q.jsx)(`span`,{className:`adm-val-rule`})]})]}),(0,Q.jsxs)(`div`,{className:`adm-field-row`,children:[(0,Q.jsx)(`span`,{className:`adm-label`,children:`Full Name:`}),(0,Q.jsxs)(`span`,{className:`adm-value-wrap`,style:{minWidth:`200px`},children:[(0,Q.jsx)(`span`,{className:`adm-val-text adm-name-bold`,children:n}),(0,Q.jsx)(`span`,{className:`adm-val-rule`})]})]}),(0,Q.jsxs)(`div`,{className:`adm-field-row`,children:[(0,Q.jsx)(`span`,{className:`adm-label`,children:`Reg. No.:`}),(0,Q.jsxs)(`span`,{className:`adm-value-wrap`,style:{minWidth:`170px`},children:[(0,Q.jsx)(`span`,{className:`adm-val-text`,children:i}),(0,Q.jsx)(`span`,{className:`adm-val-rule`})]})]}),(0,Q.jsxs)(`div`,{className:`adm-field-row`,children:[(0,Q.jsx)(`span`,{className:`adm-label`,children:`Age:`}),(0,Q.jsxs)(`span`,{className:`adm-value-wrap`,style:{minWidth:`55px`},children:[(0,Q.jsx)(`span`,{className:`adm-val-text`,style:{textAlign:`center`},children:a}),(0,Q.jsx)(`span`,{className:`adm-val-rule`})]}),(0,Q.jsx)(`span`,{className:`adm-label`,style:{marginLeft:`16px`},children:`Sex:`}),(0,Q.jsxs)(`span`,{className:`adm-value-wrap`,style:{minWidth:`65px`},children:[(0,Q.jsx)(`span`,{className:`adm-val-text`,style:{textAlign:`center`},children:o}),(0,Q.jsx)(`span`,{className:`adm-val-rule`})]})]}),(0,Q.jsxs)(`div`,{className:`adm-field-row`,children:[(0,Q.jsx)(`span`,{className:`adm-label`,children:`Occupation:`}),(0,Q.jsxs)(`span`,{className:`adm-value-wrap`,style:{minWidth:`175px`},children:[(0,Q.jsx)(`span`,{className:`adm-val-text`,children:s}),(0,Q.jsx)(`span`,{className:`adm-val-rule`})]})]}),(0,Q.jsxs)(`div`,{className:`adm-field-row`,children:[(0,Q.jsx)(`span`,{className:`adm-label`,children:`Assessment Center:`}),(0,Q.jsxs)(`span`,{className:`adm-value-wrap`,style:{minWidth:`140px`},children:[(0,Q.jsx)(`span`,{className:`adm-val-text`,children:c}),(0,Q.jsx)(`span`,{className:`adm-val-rule`})]})]}),(0,Q.jsx)(`div`,{className:`adm-legal-notice`,children:`This card is to be presented by the candidate at the session of the assessment for which he/she is registered. It is illegal for the candidate to attempt to sit for the occupation for which he/she is not registered.`}),(0,Q.jsxs)(`div`,{className:`adm-sig-underline-container`,children:[(0,Q.jsx)(`span`,{className:`adm-sig-label`,children:`Signature:`}),(0,Q.jsx)(`span`,{className:`adm-sig-underline`})]})]}),(0,Q.jsx)(`div`,{className:`adm-photo-container`,children:(0,Q.jsxs)(`div`,{className:`adm-photo-box`,children:[(0,Q.jsx)(`span`,{className:`adm-photo-tag`,children:`3x4`}),(0,Q.jsx)(`span`,{className:`adm-photo-sub`,children:`PHOTO`})]})})]})]})},TU=({students:e,onClose:t})=>{let n=CU(e,4);return(0,Q.jsxs)(Q.Fragment,{children:[(0,Q.jsx)(`style`,{children:`
         /* ──────── Print Settings ──────── */
         @media print {
           @page {
             size: A4 landscape;
             margin: 4mm;
           }
-          .no-print {
-            display: none !important;
-          }
-          body {
-            margin: 0 !important;
-            padding: 0 !important;
-            background: #fff !important;
-          }
+          .no-print { display: none !important; }
+          body { margin: 0 !important; padding: 0 !important; background: #fff !important; }
           .adm-print-sheet {
             page-break-after: always !important;
             break-after: page !important;
@@ -1468,7 +1462,7 @@ Minimum version required to store current data is: `+c+`.
           }
         }
 
-        /* ──────── Screen View ──────── */
+        /* ──────── Screen Shell ──────── */
         .adm-app-shell {
           background: #1e293b;
           min-height: 100vh;
@@ -1488,10 +1482,10 @@ Minimum version required to store current data is: `+c+`.
           display: flex;
           justify-content: space-between;
           align-items: center;
-          box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
+          box-shadow: 0 6px 20px rgba(0,0,0,0.25);
         }
 
-        /* ──────── A4 Landscape Sheet (2x2 Grid) ──────── */
+        /* ──────── A4 Landscape Sheet ──────── */
         .adm-print-sheet {
           width: 289mm;
           height: 202mm;
@@ -1503,94 +1497,95 @@ Minimum version required to store current data is: `+c+`.
           grid-template-columns: 1fr 1fr;
           grid-template-rows: 1fr 1fr;
           gap: 4mm;
-          box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+          box-shadow: 0 10px 30px rgba(0,0,0,0.35);
           border-radius: 6px;
         }
 
-        /* ──────── Single Card (A6 size) ──────── */
+        /* ──────── Single Card ──────── */
         .adm-card {
           border: 2px solid #004b93;
           box-sizing: border-box;
           display: flex;
           flex-direction: column;
-          justify-content: space-between;
           background: #ffffff;
           font-family: 'Times New Roman', Times, serif;
           overflow: hidden;
           padding: 0;
         }
 
-        /* 1. Header Table */
+        /* ──────── 1. Header Table (same as OcapdApplication) ──────── */
         .adm-header-table {
           width: 100%;
           border-collapse: collapse;
-          border-bottom: 1.5px solid #004b93;
+          border-bottom: 2px solid #004b93;
         }
         .adm-header-table td {
-          border: 1.2px solid #004b93;
-          padding: 3px 6px;
+          border: 1.5px solid #004b93;
+          padding: 2px 5px;
           vertical-align: middle;
         }
         .adm-cell-logo {
-          width: 14%;
+          width: 13%;
           text-align: center;
           padding: 2px !important;
         }
         .adm-logo-crest {
-          width: 48px;
-          height: 48px;
+          width: 44px;
+          height: 44px;
           object-fit: contain;
           display: block;
           margin: 0 auto;
         }
         .adm-cell-center {
-          width: 70%;
+          width: 68%;
           text-align: center;
         }
         .adm-company-subtitle {
-          font-size: 8.5px;
-          color: #111;
+          font-size: 7.5px;
+          color: #333;
           font-style: italic;
           margin-bottom: 1px;
         }
+        .adm-company-name {
+          font-size: 11px;
+          font-weight: 900;
+          color: #000;
+          line-height: 1.2;
+          text-transform: uppercase;
+          letter-spacing: 0.2px;
+        }
         .adm-org-line1 {
-          font-size: 11.5px;
+          font-size: 9.5px;
           font-weight: 800;
           color: #003e7e;
           line-height: 1.15;
-          letter-spacing: 0.1px;
         }
         .adm-org-line2 {
-          font-size: 10.5px;
+          font-size: 9px;
           font-weight: 700;
           color: #003e7e;
-          line-height: 1.15;
+          line-height: 1.1;
           margin: 1px 0;
         }
         .adm-org-line3 {
-          font-size: 11px;
+          font-size: 9.5px;
           font-weight: 800;
           color: #003e7e;
           line-height: 1.15;
         }
         .adm-cell-right {
-          width: 16%;
+          width: 19%;
           text-align: center;
-          font-size: 9px;
-          line-height: 1.2;
-        }
-        .adm-meta-label {
-          color: #111;
+          font-size: 8px;
           font-weight: 600;
+          line-height: 1.3;
         }
-        .adm-doc-number {
-          font-size: 13px;
-          font-weight: 900;
-          color: #000;
-          margin-top: 2px;
-        }
+        .adm-meta-label { color: #111; font-weight: 700; font-size: 8px; }
+        .adm-doc-number { font-size: 10px; font-weight: 900; color: #000; margin-top: 1px; }
+        .adm-sn-label   { font-size: 8px; font-weight: 700; color: #333; margin-top: 3px; }
+        .adm-sn-value   { font-size: 11px; font-weight: 900; color: #000; }
 
-        /* 2. Title Row */
+        /* ──────── 2. Title Row ──────── */
         .adm-title-table {
           width: 100%;
           border-collapse: collapse;
@@ -1598,51 +1593,33 @@ Minimum version required to store current data is: `+c+`.
         }
         .adm-title-table td {
           border: 1.2px solid #004b93;
-          padding: 3px 6px;
+          padding: 2px 5px;
           vertical-align: middle;
-          font-size: 9px;
+          font-size: 8.5px;
         }
         .adm-ttl-meta {
-          width: 14%;
+          width: 13%;
           font-weight: 800;
-          font-size: 9.5px;
+          font-size: 8.5px;
           color: #000;
         }
         .adm-ttl-heading {
-          width: 58%;
+          width: 60%;
           text-align: center;
           font-weight: 800;
-          line-height: 1.2;
+          line-height: 1.25;
         }
-        .adm-ttl-oromo {
-          font-size: 10.5px;
-          color: #000;
-        }
-        .adm-ttl-english {
-          font-size: 10px;
-          color: #000;
-        }
-        .adm-ttl-issue {
-          width: 14%;
-          text-align: center;
-          line-height: 1.2;
-          font-size: 9px;
-          color: #000;
-        }
-        .adm-ttl-page {
-          width: 14%;
-          text-align: center;
-          line-height: 1.2;
-          font-size: 9px;
-          color: #000;
-        }
+        .adm-ttl-oromo   { font-size: 10px; color: #000; font-weight: 800; }
+        .adm-ttl-english { font-size: 9.5px; color: #000; font-weight: 800; }
+        .adm-ttl-issue   { width: 14%; text-align: center; line-height: 1.25; font-size: 8.5px; color: #000; }
+        .adm-ttl-page    { width: 13%; text-align: center; line-height: 1.25; font-size: 8.5px; color: #000; }
 
-        /* 3. Card Body */
+        /* ──────── 3. Card Body ──────── */
         .adm-card-body {
           display: flex;
           flex: 1;
-          padding: 8px 12px;
-          gap: 12px;
+          padding: 7px 10px;
+          gap: 10px;
         }
         .adm-fields-area {
           flex: 1;
@@ -1652,56 +1629,74 @@ Minimum version required to store current data is: `+c+`.
         }
         .adm-field-row {
           display: flex;
-          align-items: baseline;
-          gap: 4px 6px;
-          margin-bottom: 3px;
+          align-items: flex-end;
+          gap: 4px 5px;
+          margin-bottom: 4px;
           flex-wrap: wrap;
         }
         .adm-label {
-          font-size: 12.5px;
+          font-size: 12px;
           font-weight: 800;
           color: #000;
           white-space: nowrap;
-        }
-        .adm-value-line {
-          border-bottom: 1.5px solid #000;
-          display: inline-block;
-          height: 16px;
-          font-size: 12.5px;
-          font-weight: 700;
-          padding: 0 6px;
-          vertical-align: bottom;
-          color: #000;
-        }
-        .adm-name-bold {
-          font-size: 13.5px;
-          font-weight: 800;
+          line-height: 1;
+          padding-bottom: 3px;   /* aligns label baseline with value bottom */
         }
 
+        /* ── Value = text block stacked above a rule line ── */
+        .adm-value-wrap {
+          display: inline-flex;
+          flex-direction: column;
+          align-items: stretch;
+          gap: 0;
+        }
+        .adm-val-text {
+          font-size: 12.5px;
+          font-weight: 800;
+          color: #000;
+          padding: 0 4px 2px 4px;   /* 2px gap between text and the rule */
+          line-height: 1.2;
+          min-height: 15px;
+          display: block;
+        }
+        .adm-val-rule {
+          display: block;
+          border-bottom: 1.5px solid #000;
+          width: 100%;
+        }
+        .adm-name-bold { font-size: 13px; font-weight: 900; }
+
         .adm-legal-notice {
-          font-size: 9px;
+          font-size: 8.5px;
           font-style: italic;
           color: #000;
           font-weight: 600;
-          margin-top: 5px;
-          line-height: 1.3;
+          margin-top: 4px;
+          line-height: 1.35;
           text-align: justify;
         }
 
         .adm-sig-underline-container {
-          text-align: center;
-          margin-top: 8px;
+          display: flex;
+          align-items: flex-end;
+          gap: 6px;
+          margin-top: 6px;
+        }
+        .adm-sig-label {
+          font-size: 11px;
+          font-weight: 800;
+          color: #000;
         }
         .adm-sig-underline {
           border-bottom: 1.5px solid #000;
+          flex: 1;
+          height: 14px;
           display: inline-block;
-          width: 220px;
-          height: 12px;
         }
 
-        /* 4. Photo Box */
+        /* ──────── 4. Photo Box ──────── */
         .adm-photo-container {
-          width: 92px;
+          width: 88px;
           display: flex;
           flex-direction: column;
           align-items: center;
@@ -1710,9 +1705,9 @@ Minimum version required to store current data is: `+c+`.
           flex-shrink: 0;
         }
         .adm-photo-box {
-          width: 86px;
-          height: 115px;
-          border: 1.8px solid #000;
+          width: 82px;
+          height: 110px;
+          border: 2px solid #000;
           display: flex;
           flex-direction: column;
           align-items: center;
@@ -1720,19 +1715,9 @@ Minimum version required to store current data is: `+c+`.
           background: #ffffff;
           gap: 2px;
         }
-        .adm-photo-tag {
-          font-size: 16px;
-          font-weight: 900;
-          color: #000;
-        }
-        .adm-photo-sub {
-          font-size: 10px;
-          font-weight: 700;
-          color: #333;
-          text-transform: uppercase;
-          letter-spacing: 0.5px;
-        }
-      `}),(0,Q.jsxs)(`div`,{className:`adm-app-shell`,children:[(0,Q.jsxs)(`div`,{className:`no-print adm-toolbar-card`,children:[(0,Q.jsxs)(pR,{orientation:`horizontal`,size:`middle`,children:[(0,Q.jsx)(oB,{icon:(0,Q.jsx)(gH,{}),color:`blue`,style:{fontSize:`14px`,padding:`5px 12px`,fontWeight:700},children:`OF/OCAPD/002 • Candidate Identification Cards`}),(0,Q.jsxs)(SU,{style:{fontSize:`14px`,color:`#334155`},children:[`Total Candidates: `,(0,Q.jsx)(`strong`,{children:e.length}),` (`,n.length,` `,n.length===1?`Page`:`Pages`,`) • 4 cards per A4 Landscape`]})]}),(0,Q.jsxs)(pR,{orientation:`horizontal`,size:`small`,children:[(0,Q.jsx)(jF,{type:`primary`,size:`large`,icon:(0,Q.jsx)(yH,{}),onClick:()=>window.print(),style:{background:`#004b93`,borderColor:`#004b93`,fontWeight:700,padding:`0 24px`},children:`Print All Cards`}),t&&(0,Q.jsx)(jF,{size:`large`,icon:(0,Q.jsx)(iH,{}),onClick:t,style:{fontWeight:600},children:`Return to Portal`})]})]}),n.map((e,t)=>(0,Q.jsxs)(`div`,{className:`adm-print-sheet`,children:[e.map(e=>(0,Q.jsx)(wU,{student:e},e.SN||e.FullName)),e.length<4&&Array.from({length:4-e.length}).map((e,t)=>(0,Q.jsx)(`div`,{style:{visibility:`hidden`},className:`adm-card`},`empty-${t}`))]},t))]})]})},{Text:EU}=lV,DU=({student:e})=>{let t=e?.FullName??`${e?.FirstName||``} ${e?.MiddleName||``} ${e?.LastName||``}`.trim(),n=e?.FirstName??(t.split(` `)[0]||``),r=e?.MiddleName??(t.split(` `)[1]||``),i=e?.LastName??(t.split(` `).slice(2).join(` `)||``),a=e?.Age??``,o=e?.Gender??``,s=e?.PhoneNumber1??``,c=e?.Subject||`DOMESTIC WORK`,l=BH.instituteName.english,u=e?.BirthDate||e?.DOB||``,d=e?.TrainingEndDate||e?.EndDate||``,f=e?.Region||`ETHIOPIA`,p=e?.CityZone||``,m=e?.DistrictKebele||``;return(0,Q.jsx)(`div`,{className:`ocapd-sheet`,children:(0,Q.jsxs)(`div`,{className:`ocapd-paper-wrapper`,children:[(0,Q.jsxs)(`div`,{className:`ocapd-watermark-bg`,children:[`Waraabbii Mirkaneessa fi To'ataa...`,(0,Q.jsx)(`br`,{}),`Waraabbii Mirkaneessa fi To'ataa...`]}),(0,Q.jsxs)(`div`,{className:`ocapd-content-layer`,children:[(0,Q.jsx)(`table`,{className:`ocapd-header-table`,children:(0,Q.jsx)(`tbody`,{children:(0,Q.jsxs)(`tr`,{children:[(0,Q.jsx)(`td`,{className:`ocapd-logo-cell`,children:(0,Q.jsx)(`img`,{src:`/ocapd_logo.jpg`,alt:`Agency Crest`,className:`ocapd-logo-crest`,onError:e=>{e.target.src=`/logo.png`}})}),(0,Q.jsxs)(`td`,{className:`ocapd-center-cell`,children:[(0,Q.jsx)(`div`,{className:`ocapd-company-subtitle`,children:`Maqaa Mana Hojii / Company Name`}),(0,Q.jsx)(`div`,{className:`ocapd-company-name`,children:l}),(0,Q.jsx)(`div`,{className:`ocapd-agency-oromo`,children:`Ejensii Mirkaneessa Gahumsa Ogummaa Oromiyaa`}),(0,Q.jsx)(`div`,{className:`ocapd-agency-amharic`,children:`የኦሮሚያ የሙያ ብቃት ማረጋገጫ ኤጄንሲ`}),(0,Q.jsx)(`div`,{className:`ocapd-agency-english`,children:`Oromia Occupational Competence Assurance Agency`})]}),(0,Q.jsxs)(`td`,{className:`ocapd-right-cell`,children:[(0,Q.jsxs)(`div`,{className:`ocapd-meta-sub`,children:[`Lakk.Sanadaa /`,(0,Q.jsx)(`br`,{}),`Document No.`]}),(0,Q.jsx)(`div`,{className:`ocapd-doc-code`,children:`OF/OCAPD/001`})]})]})})}),(0,Q.jsx)(`table`,{className:`ocapd-title-table`,children:(0,Q.jsx)(`tbody`,{children:(0,Q.jsxs)(`tr`,{children:[(0,Q.jsx)(`td`,{className:`ocapd-ttl-meta`,children:`Mata-duree / Title`}),(0,Q.jsxs)(`td`,{className:`ocapd-ttl-center`,children:[(0,Q.jsx)(`div`,{className:`ocapd-ttl-oromo`,children:`Unka Iyyannoo Madaallii Madaalamaa`}),(0,Q.jsx)(`div`,{className:`ocapd-ttl-english`,children:`Candidates Assessment Application Form`})]}),(0,Q.jsxs)(`td`,{className:`ocapd-ttl-issue`,children:[`Lakk.Maxxansaa`,(0,Q.jsx)(`br`,{}),`/Issue No. `,(0,Q.jsx)(`strong`,{children:`01`})]}),(0,Q.jsxs)(`td`,{className:`ocapd-ttl-page`,children:[`Fuula / Page No.`,(0,Q.jsx)(`br`,{}),(0,Q.jsx)(`strong`,{children:`Page 1 of 1`})]})]})})}),(0,Q.jsx)(`div`,{className:`ocapd-instruction-bar`,children:`This form, when completed, must be forwarded together with four (size 3X4) photos to the center of competence.`}),(0,Q.jsxs)(`div`,{className:`ocapd-body-flex`,children:[(0,Q.jsxs)(`div`,{className:`ocapd-fields-container`,children:[(0,Q.jsxs)(`div`,{className:`ocapd-name-trio`,children:[(0,Q.jsxs)(`div`,{className:`name-lines-row`,children:[(0,Q.jsx)(`span`,{className:`name-val`,style:{width:`32%`},children:n}),(0,Q.jsx)(`span`,{className:`name-val`,style:{width:`32%`},children:r}),(0,Q.jsx)(`span`,{className:`name-val`,style:{width:`32%`},children:i})]}),(0,Q.jsxs)(`div`,{className:`name-labels-row`,children:[(0,Q.jsx)(`span`,{className:`name-lbl`,style:{width:`32%`},children:`Name`}),(0,Q.jsx)(`span`,{className:`name-lbl`,style:{width:`32%`},children:"Father`s Name"}),(0,Q.jsx)(`span`,{className:`name-lbl`,style:{width:`32%`},children:"Grand Father`s Name"})]})]}),(0,Q.jsxs)(`div`,{className:`form-item-row`,children:[(0,Q.jsx)(`span`,{className:`f-label`,children:`Birth date`}),(0,Q.jsx)(`span`,{className:`f-underline`,style:{minWidth:`125px`},children:u}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`22px`},children:`Age`}),(0,Q.jsx)(`span`,{className:`f-underline`,style:{minWidth:`55px`,textAlign:`center`},children:a}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`22px`},children:`Gender`}),(0,Q.jsx)(`span`,{className:`f-underline`,style:{minWidth:`75px`,textAlign:`center`},children:o})]}),(0,Q.jsxs)(`div`,{className:`form-item-row`,children:[(0,Q.jsx)(`span`,{className:`f-label`,children:`Citizenship`}),(0,Q.jsx)(`span`,{className:`f-underline`,style:{minWidth:`165px`},children:`ETHIOPIA`}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`20px`},children:`Address`}),(0,Q.jsx)(`span`,{className:`f-underline`,style:{minWidth:`205px`},children:f})]}),(0,Q.jsxs)(`div`,{className:`form-item-row`,children:[(0,Q.jsx)(`span`,{className:`f-label`,children:"Woreda`s/ Sub City"}),(0,Q.jsx)(`span`,{className:`f-underline`,style:{minWidth:`155px`},children:p}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`18px`},children:`Kebele`}),(0,Q.jsx)(`span`,{className:`f-underline`,style:{minWidth:`140px`},children:m}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`18px`},children:`H.No`}),(0,Q.jsx)(`span`,{className:`f-underline`,style:{minWidth:`80px`},children:`_________`})]}),(0,Q.jsxs)(`div`,{className:`form-item-row`,children:[(0,Q.jsx)(`span`,{className:`f-label`,children:`Phone/Residence`}),(0,Q.jsx)(`span`,{className:`f-underline`,style:{minWidth:`135px`},children:s}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`18px`},children:`Office`}),(0,Q.jsx)(`span`,{className:`f-underline`,style:{minWidth:`95px`},children:`_________`}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`18px`},children:`Cell/Mobile`}),(0,Q.jsx)(`span`,{className:`f-underline`,style:{minWidth:`95px`},children:`_________`})]}),(0,Q.jsxs)(`div`,{className:`form-item-row`,children:[(0,Q.jsx)(`span`,{className:`f-label`,children:`Presently:-`}),(0,Q.jsx)(`span`,{className:`f-label`,style:{fontWeight:600},children:`Student`}),(0,Q.jsx)(`span`,{className:`f-underline`,style:{minWidth:`50px`},children:`_____`}),(0,Q.jsx)(`span`,{className:`f-label`,style:{fontWeight:600},children:`Employed`}),(0,Q.jsx)(`span`,{className:`f-underline`,style:{minWidth:`45px`},children:`___`}),(0,Q.jsx)(`span`,{className:`f-label`,style:{fontWeight:600},children:`Self Employed`}),(0,Q.jsx)(`span`,{className:`f-underline`,style:{minWidth:`40px`},children:`__`}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`16px`},children:`Job Sector`}),(0,Q.jsx)(`span`,{className:`f-underline`,style:{minWidth:`45px`,textAlign:`center`,fontWeight:`900`,fontSize:`14px`},children:`✓`})]}),(0,Q.jsxs)(`div`,{className:`form-item-row`,children:[(0,Q.jsx)(`span`,{className:`f-label`,children:`Year of Graduation`}),(0,Q.jsx)(`span`,{className:`f-underline`,style:{minWidth:`155px`},children:d}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`18px`},children:`Employment Date`}),(0,Q.jsx)(`span`,{className:`f-underline`,style:{minWidth:`200px`},children:`________________________`})]}),(0,Q.jsxs)(`div`,{className:`form-item-row`,children:[(0,Q.jsx)(`span`,{className:`f-label`,children:`(Name of Occupation)`}),(0,Q.jsx)(`span`,{className:`f-underline`,style:{minWidth:`175px`},children:c}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`16px`},children:`Assessment Center`}),(0,Q.jsx)(`span`,{className:`f-underline`,style:{minWidth:`200px`},children:l})]}),(0,Q.jsxs)(`div`,{className:`prose-statement`,children:[`I assure that I have gained practical experience in the occupation`,` `,(0,Q.jsx)(`span`,{className:`f-underline`,style:{minWidth:`140px`},children:c}),` of`,` `,(0,Q.jsx)(`span`,{className:`f-underline`,style:{minWidth:`90px`},children:`_______`}),` for`,` `,(0,Q.jsx)(`span`,{className:`f-underline`,style:{minWidth:`70px`,textAlign:`center`,fontWeight:`900`},children:`21`}),` months/Year`]}),(0,Q.jsx)(`div`,{className:`prose-statement`,style:{marginTop:`8px`},children:`I am able to read and write and communicate in the following language`}),(0,Q.jsxs)(`div`,{className:`form-item-row`,style:{marginTop:`4px`},children:[(0,Q.jsx)(`span`,{className:`f-label`,children:`English`}),(0,Q.jsx)(`span`,{className:`f-underline`,style:{minWidth:`105px`},children:`__________`}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`24px`},children:`other, which one`}),(0,Q.jsx)(`span`,{className:`f-underline`,style:{minWidth:`220px`,fontWeight:`800`},children:`Afaan Oromo/ Amharic`})]}),(0,Q.jsxs)(`div`,{className:`prose-statement`,style:{marginTop:`8px`},children:[`Along with this application, I shall pay an application fee of birr`,` `,(0,Q.jsx)(`span`,{className:`f-underline`,style:{minWidth:`100px`,textAlign:`center`,fontWeight:`900`},children:`348.82`})]}),(0,Q.jsx)(`div`,{className:`prose-statement`,style:{marginTop:`8px`},children:`If any special arrangement (related to health and physical disability)`}),(0,Q.jsx)(`div`,{className:`f-underline-block`}),(0,Q.jsx)(`div`,{className:`prose-statement`,style:{marginTop:`14px`},children:`I wish to be assessed for the occupation mentioned above`}),(0,Q.jsxs)(`div`,{className:`form-item-row`,style:{marginTop:`16px`},children:[(0,Q.jsx)(`span`,{className:`f-label`,children:`Name`}),(0,Q.jsx)(`span`,{className:`f-underline`,style:{minWidth:`200px`,fontWeight:`800`},children:t}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`20px`},children:`Date`}),(0,Q.jsx)(`span`,{className:`f-underline`,style:{minWidth:`120px`},children:d}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`20px`},children:`Signature`}),(0,Q.jsx)(`span`,{className:`f-underline`,style:{minWidth:`150px`},children:`________________`})]})]}),(0,Q.jsx)(`div`,{className:`ocapd-photo-box-wrap`,children:(0,Q.jsxs)(`div`,{className:`ocapd-photo-frame`,children:[(0,Q.jsx)(`span`,{className:`photo-title`,children:`Photos`}),(0,Q.jsx)(`span`,{className:`photo-dims`,children:`3X4`})]})})]}),(0,Q.jsxs)(`div`,{className:`ocapd-official-footer`,children:[(0,Q.jsx)(`div`,{className:`footer-oromo`,children:`Sanada kanatti fayyadamuu keessan dura maxxansa sirrii ta'uu isaa mirkaneessa !!`}),(0,Q.jsx)(`div`,{className:`footer-english`,children:`Please make sure that this is the correct issue before use!!`})]})]})]})})},OU=({data:e,students:t,onClose:n})=>{let r=t&&t.length>0?t:e?[e]:[];return(0,Q.jsxs)(Q.Fragment,{children:[(0,Q.jsx)(`style`,{children:`
+        .adm-photo-tag { font-size: 17px; font-weight: 900; color: #000; }
+        .adm-photo-sub { font-size: 10px; font-weight: 800; color: #000; text-transform: uppercase; letter-spacing: 0.5px; }
+      `}),(0,Q.jsxs)(`div`,{className:`adm-app-shell`,children:[(0,Q.jsxs)(`div`,{className:`no-print adm-toolbar-card`,children:[(0,Q.jsxs)(pR,{size:`middle`,children:[(0,Q.jsx)(oB,{icon:(0,Q.jsx)(gH,{}),color:`blue`,style:{fontSize:`14px`,padding:`5px 12px`,fontWeight:700},children:`OF/OCAPD/002 • Candidate Identification Cards`}),(0,Q.jsxs)(SU,{style:{fontSize:`14px`,color:`#334155`},children:[`Total: `,(0,Q.jsx)(`strong`,{children:e.length}),` candidates • `,n.length,` `,n.length===1?`page`:`pages`,` • A4 Landscape`]})]}),(0,Q.jsxs)(pR,{size:`small`,children:[(0,Q.jsx)(jF,{type:`primary`,size:`large`,icon:(0,Q.jsx)(yH,{}),onClick:()=>window.print(),style:{background:`#004b93`,borderColor:`#004b93`,fontWeight:700,padding:`0 24px`},children:`Print All Cards`}),t&&(0,Q.jsx)(jF,{size:`large`,icon:(0,Q.jsx)(iH,{}),onClick:t,style:{fontWeight:600},children:`Return to Portal`})]})]}),n.map((e,t)=>(0,Q.jsxs)(`div`,{className:`adm-print-sheet`,children:[e.map(e=>(0,Q.jsx)(wU,{student:e},e.SN||e.FullName)),e.length<4&&Array.from({length:4-e.length}).map((e,t)=>(0,Q.jsx)(`div`,{style:{visibility:`hidden`},className:`adm-card`},`empty-${t}`))]},t))]})]})},{Text:EU}=lV,DU=({student:e})=>{let t=e?.FullName??`${e?.FirstName||``} ${e?.MiddleName||``} ${e?.LastName||``}`.trim(),n=e?.FirstName??(t.split(` `)[0]||``),r=e?.MiddleName??(t.split(` `)[1]||``),i=e?.LastName??(t.split(` `).slice(2).join(` `)||``),a=e?.Age??``,o=e?.Gender??``,s=e?.PhoneNumber1??``,c=e?.Subject||`DOMESTIC WORK`,l=BH.instituteName.english,u=e?.BirthDate||e?.DOB||``,d=e?.TrainingEndDate||e?.EndDate||``,f=e?.Region||`ETHIOPIA`,p=e?.CityZone||``,m=e?.DistrictKebele||``;return(0,Q.jsx)(`div`,{className:`ocapd-sheet`,children:(0,Q.jsxs)(`div`,{className:`ocapd-paper-wrapper`,children:[(0,Q.jsxs)(`div`,{className:`ocapd-watermark-bg`,children:[`Waraabbii Mirkaneessa fi To'ataa...`,(0,Q.jsx)(`br`,{}),`Waraabbii Mirkaneessa fi To'ataa...`]}),(0,Q.jsxs)(`div`,{className:`ocapd-content-layer`,children:[(0,Q.jsx)(`table`,{className:`ocapd-header-table`,children:(0,Q.jsx)(`tbody`,{children:(0,Q.jsxs)(`tr`,{children:[(0,Q.jsx)(`td`,{className:`ocapd-logo-cell`,children:(0,Q.jsx)(`img`,{src:`/ocapd_logo.jpg`,alt:`Agency Crest`,className:`ocapd-logo-crest`,onError:e=>{e.target.src=`/logo.png`}})}),(0,Q.jsxs)(`td`,{className:`ocapd-center-cell`,children:[(0,Q.jsx)(`div`,{className:`ocapd-company-subtitle`,children:`Maqaa Mana Hojii / Company Name`}),(0,Q.jsx)(`div`,{className:`ocapd-company-name`,children:l}),(0,Q.jsx)(`div`,{className:`ocapd-agency-oromo`,children:`Ejensii Mirkaneessa Gahumsa Ogummaa Oromiyaa`}),(0,Q.jsx)(`div`,{className:`ocapd-agency-amharic`,children:`የኦሮሚያ የሙያ ብቃት ማረጋገጫ ኤጄንሲ`}),(0,Q.jsx)(`div`,{className:`ocapd-agency-english`,children:`Oromia Occupational Competence Assurance Agency`})]}),(0,Q.jsxs)(`td`,{className:`ocapd-right-cell`,children:[(0,Q.jsxs)(`div`,{className:`ocapd-meta-sub`,children:[`Lakk.Sanadaa /`,(0,Q.jsx)(`br`,{}),`Document No.`]}),(0,Q.jsx)(`div`,{className:`ocapd-doc-code`,children:`OF/OCAPD/001`})]})]})})}),(0,Q.jsx)(`table`,{className:`ocapd-title-table`,children:(0,Q.jsx)(`tbody`,{children:(0,Q.jsxs)(`tr`,{children:[(0,Q.jsx)(`td`,{className:`ocapd-ttl-meta`,children:`Mata-duree / Title`}),(0,Q.jsxs)(`td`,{className:`ocapd-ttl-center`,children:[(0,Q.jsx)(`div`,{className:`ocapd-ttl-oromo`,children:`Unka Iyyannoo Madaallii Madaalamaa`}),(0,Q.jsx)(`div`,{className:`ocapd-ttl-english`,children:`Candidates Assessment Application Form`})]}),(0,Q.jsxs)(`td`,{className:`ocapd-ttl-issue`,children:[`Lakk.Maxxansaa`,(0,Q.jsx)(`br`,{}),`/Issue No. `,(0,Q.jsx)(`strong`,{children:`01`})]}),(0,Q.jsxs)(`td`,{className:`ocapd-ttl-page`,children:[`Fuula / Page No.`,(0,Q.jsx)(`br`,{}),(0,Q.jsx)(`strong`,{children:`Page 1 of 1`})]})]})})}),(0,Q.jsx)(`div`,{className:`ocapd-instruction-bar`,children:`This form, when completed, must be forwarded together with four (size 3X4) photos to the center of competence.`}),(0,Q.jsxs)(`div`,{className:`ocapd-body-flex`,children:[(0,Q.jsxs)(`div`,{className:`ocapd-fields-container`,children:[(0,Q.jsx)(`div`,{className:`ocapd-name-trio`,children:(0,Q.jsxs)(`div`,{className:`name-cols-row`,children:[(0,Q.jsxs)(`div`,{className:`name-col`,children:[(0,Q.jsx)(`span`,{className:`name-val`,children:n}),(0,Q.jsx)(`span`,{className:`name-rule`}),(0,Q.jsx)(`span`,{className:`name-lbl`,children:`Name`})]}),(0,Q.jsxs)(`div`,{className:`name-col`,children:[(0,Q.jsx)(`span`,{className:`name-val`,children:r}),(0,Q.jsx)(`span`,{className:`name-rule`}),(0,Q.jsx)(`span`,{className:`name-lbl`,children:`Father's Name`})]}),(0,Q.jsxs)(`div`,{className:`name-col`,children:[(0,Q.jsx)(`span`,{className:`name-val`,children:i}),(0,Q.jsx)(`span`,{className:`name-rule`}),(0,Q.jsx)(`span`,{className:`name-lbl`,children:`Grand Father's Name`})]})]})}),(0,Q.jsxs)(`div`,{className:`form-item-row`,children:[(0,Q.jsx)(`span`,{className:`f-label`,children:`Birth date`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`125px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,children:u}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`18px`},children:`Age`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`50px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,style:{textAlign:`center`},children:a}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`18px`},children:`Gender`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`70px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,style:{textAlign:`center`},children:o}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]})]}),(0,Q.jsxs)(`div`,{className:`form-item-row`,children:[(0,Q.jsx)(`span`,{className:`f-label`,children:`Citizenship`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`160px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,children:`ETHIOPIA`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`18px`},children:`Address`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{flex:1},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,children:f}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]})]}),(0,Q.jsxs)(`div`,{className:`form-item-row`,children:[(0,Q.jsx)(`span`,{className:`f-label`,children:`Woreda's / Sub City`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`140px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,children:p}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`14px`},children:`Kebele`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`120px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,children:m}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`14px`},children:`H.No`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`65px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]})]}),(0,Q.jsxs)(`div`,{className:`form-item-row`,children:[(0,Q.jsx)(`span`,{className:`f-label`,children:`Phone/Residence`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`125px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,children:s}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`14px`},children:`Office`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`85px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`14px`},children:`Cell/Mobile`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`85px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]})]}),(0,Q.jsxs)(`div`,{className:`form-item-row`,children:[(0,Q.jsx)(`span`,{className:`f-label`,children:`Presently:-`}),(0,Q.jsx)(`span`,{className:`f-label`,style:{fontWeight:600,marginLeft:`4px`},children:`Student`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`48px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label`,style:{fontWeight:600},children:`Employed`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`42px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label`,style:{fontWeight:600},children:`Self Employed`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`38px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`12px`},children:`Job Sector`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`42px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,style:{textAlign:`center`,fontWeight:900,fontSize:`14px`},children:`✓`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]})]}),(0,Q.jsxs)(`div`,{className:`form-item-row`,children:[(0,Q.jsx)(`span`,{className:`f-label`,children:`Year of Graduation`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`145px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,children:d}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`16px`},children:`Employment Date`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{flex:1},children:[(0,Q.jsx)(`span`,{className:`f-val-text`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]})]}),(0,Q.jsxs)(`div`,{className:`form-item-row`,children:[(0,Q.jsx)(`span`,{className:`f-label`,children:`(Name of Occupation)`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`160px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,children:c}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`14px`},children:`Assessment Center`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{flex:1},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,children:l}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]})]}),(0,Q.jsxs)(`div`,{className:`prose-statement`,children:[`I assure that I have gained practical experience in the occupation`,` `,(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`130px`,display:`inline-flex`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,children:c}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),` `,`of`,` `,(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`80px`,display:`inline-flex`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),` `,`for`,` `,(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`60px`,display:`inline-flex`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,style:{textAlign:`center`,fontWeight:900},children:`21`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),` `,`months/Year`]}),(0,Q.jsx)(`div`,{className:`prose-statement`,style:{marginTop:`8px`},children:`I am able to read and write and communicate in the following language`}),(0,Q.jsxs)(`div`,{className:`form-item-row`,style:{marginTop:`4px`},children:[(0,Q.jsx)(`span`,{className:`f-label`,children:`English`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`100px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`20px`},children:`other, which one`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{flex:1},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,style:{fontWeight:800},children:`Afaan Oromo / Amharic`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]})]}),(0,Q.jsxs)(`div`,{className:`prose-statement`,style:{marginTop:`6px`},children:[`Along with this application, I shall pay an application fee of birr`,` `,(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`95px`,display:`inline-flex`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,style:{textAlign:`center`,fontWeight:900},children:`348.82`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]})]}),(0,Q.jsx)(`div`,{className:`prose-statement`,style:{marginTop:`8px`},children:`If any special arrangement (related to health and physical disability)`}),(0,Q.jsx)(`div`,{className:`f-underline-block`}),(0,Q.jsx)(`div`,{className:`prose-statement`,style:{marginTop:`12px`},children:`I wish to be assessed for the occupation mentioned above`}),(0,Q.jsxs)(`div`,{className:`form-item-row`,style:{marginTop:`14px`},children:[(0,Q.jsx)(`span`,{className:`f-label`,children:`Name`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`190px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,style:{fontWeight:800},children:t}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`18px`},children:`Date`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`110px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,children:d}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`18px`},children:`Signature`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{flex:1},children:[(0,Q.jsx)(`span`,{className:`f-val-text`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]})]})]}),(0,Q.jsx)(`div`,{className:`ocapd-photo-box-wrap`,children:(0,Q.jsxs)(`div`,{className:`ocapd-photo-frame`,children:[(0,Q.jsx)(`span`,{className:`photo-title`,children:`Photos`}),(0,Q.jsx)(`span`,{className:`photo-dims`,children:`3X4`})]})})]}),(0,Q.jsxs)(`div`,{className:`ocapd-official-footer`,children:[(0,Q.jsx)(`div`,{className:`footer-oromo`,children:`Sanada kanatti fayyadamuu keessan dura maxxansa sirrii ta'uu isaa mirkaneessa !!`}),(0,Q.jsx)(`div`,{className:`footer-english`,children:`Please make sure that this is the correct issue before use!!`})]})]})]})})},OU=({data:e,students:t,onClose:n})=>{let r=t&&t.length>0?t:e?[e]:[];return(0,Q.jsxs)(Q.Fragment,{children:[(0,Q.jsx)(`style`,{children:`
         /* ──────── Print Settings ──────── */
         @media print {
           @page {
@@ -1985,28 +1970,35 @@ Minimum version required to store current data is: `+c+`.
           justify-content: space-between;
         }
 
-        /* Names trio */
+        /* Names trio — column layout: value → rule → label */
         .ocapd-name-trio {
-          margin-bottom: 12px;
+          margin-bottom: 14px;
         }
-        .name-lines-row {
+        .name-cols-row {
           display: flex;
           justify-content: space-between;
-          border-bottom: 1.5px solid #000;
-          padding-bottom: 3px;
+          gap: 12px;
+        }
+        .name-col {
+          flex: 1;
+          display: flex;
+          flex-direction: column;
         }
         .name-val {
           font-size: 13.5px;
           font-weight: 800;
           color: #000;
+          padding-bottom: 2px;
+          min-height: 18px;
         }
-        .name-labels-row {
-          display: flex;
-          justify-content: space-between;
-          padding-top: 3px;
+        .name-rule {
+          display: block;
+          border-bottom: 1.5px solid #000;
+          width: 100%;
+          margin-bottom: 3px;
         }
         .name-lbl {
-          font-size: 11.5px;
+          font-size: 11px;
           font-weight: 800;
           color: #000;
         }
@@ -2014,7 +2006,7 @@ Minimum version required to store current data is: `+c+`.
         /* Standard form row */
         .form-item-row {
           display: flex;
-          align-items: baseline;
+          align-items: flex-end;
           margin-bottom: 10px;
           flex-wrap: wrap;
           gap: 4px 6px;
@@ -2024,17 +2016,31 @@ Minimum version required to store current data is: `+c+`.
           font-weight: 800;
           color: #000;
           white-space: nowrap;
+          padding-bottom: 3px;   /* keeps label baseline at same level as value bottom */
         }
-        .f-underline {
-          border-bottom: 1.5px solid #000;
-          display: inline-block;
-          height: 16px;
+
+        /* Stacked value wrapper: text floats above rule line */
+        .f-val-wrap {
+          display: inline-flex;
+          flex-direction: column;
+          align-items: stretch;
+          gap: 0;
+        }
+        .f-val-text {
           font-size: 12.5px;
-          font-weight: 700;
-          padding: 0 6px;
-          vertical-align: bottom;
+          font-weight: 800;
           color: #000;
+          padding: 0 5px 2px 5px;
+          min-height: 16px;
+          line-height: 1.25;
+          display: block;
         }
+        .f-val-rule {
+          display: block;
+          border-bottom: 1.5px solid #000;
+          width: 100%;
+        }
+
         .prose-statement {
           font-size: 12.5px;
           line-height: 1.5;
@@ -2045,7 +2051,7 @@ Minimum version required to store current data is: `+c+`.
         .f-underline-block {
           border-bottom: 1.5px solid #000;
           width: 100%;
-          height: 18px;
+          height: 20px;
           margin-top: 3px;
         }
 
