@@ -1439,8 +1439,8 @@ Minimum version required to store current data is: `+c+`.
             gap: 6px !important;
           }
         }
-      `})]})},{Text:SU}=lV;function CU(e,t){let n=[];for(let r=0;r<e.length;r+=t)n.push(e.slice(r,r+t));return n}var wU=({student:e})=>{let t=e.CityZone||e.Branch||BH.location||BH.instituteName.short,n=e.FullName||`${e.FirstName||``} ${e.MiddleName||``} ${e.LastName||``}`.trim(),r=e.SN||``,i=e.LabourID||e.SN||``,a=e.Age||``,o=e.Gender||e.Sex||``,s=e.Subject||`DOMESTIC WORK`,c=e.AssessmentCenter||BH.instituteName.english;return(0,Q.jsxs)(`div`,{className:`adm-card`,children:[(0,Q.jsx)(`table`,{className:`adm-header-table`,children:(0,Q.jsx)(`tbody`,{children:(0,Q.jsxs)(`tr`,{children:[(0,Q.jsx)(`td`,{className:`adm-cell-logo`,children:(0,Q.jsx)(`img`,{src:`/ocapd_logo.jpg`,alt:`Logo`,className:`adm-logo-crest`,onError:e=>{e.target.src=`/logo.png`}})}),(0,Q.jsxs)(`td`,{className:`adm-cell-center`,children:[(0,Q.jsx)(`div`,{className:`adm-company-subtitle`,children:`Maqaa Mana Hojii / Company Name`}),(0,Q.jsx)(`div`,{className:`adm-company-name`,children:BH.instituteName.english}),(0,Q.jsx)(`div`,{className:`adm-org-line1`,children:`Ejensii Mirkaneessa Gahumsa Ogummaa Oromiyaa`}),(0,Q.jsx)(`div`,{className:`adm-org-line2`,children:`የኦሮሚያ የሙያ ብቃት ማረጋገጫ ኤጄንሲ`}),(0,Q.jsx)(`div`,{className:`adm-org-line3`,children:`Oromia Occupational Competence Assurance Agency`})]}),(0,Q.jsxs)(`td`,{className:`adm-cell-right`,children:[(0,Q.jsxs)(`div`,{className:`adm-meta-label`,children:[`Lakk.Sanadaa /`,(0,Q.jsx)(`br`,{}),`Document No.`]}),(0,Q.jsx)(`div`,{className:`adm-doc-number`,children:`OF/OCAPD/002`}),(0,Q.jsx)(`div`,{className:`adm-sn-label`,children:`SN`}),(0,Q.jsx)(`div`,{className:`adm-sn-value`,children:r})]})]})})}),(0,Q.jsx)(`table`,{className:`adm-title-table`,children:(0,Q.jsx)(`tbody`,{children:(0,Q.jsxs)(`tr`,{children:[(0,Q.jsxs)(`td`,{className:`adm-ttl-meta`,children:[`Mata-duree/`,(0,Q.jsx)(`br`,{}),`Title`]}),(0,Q.jsxs)(`td`,{className:`adm-ttl-heading`,children:[(0,Q.jsx)(`div`,{className:`adm-ttl-oromo`,children:`Unkaa Waraqaa Eenyummaa Madaalamaa`}),(0,Q.jsx)(`div`,{className:`adm-ttl-english`,children:`Candidate Identification Card Form`})]}),(0,Q.jsxs)(`td`,{className:`adm-ttl-issue`,children:[`Lakk.Maxxan`,(0,Q.jsx)(`br`,{}),`saa/Issue No.`,(0,Q.jsx)(`br`,{}),(0,Q.jsx)(`strong`,{children:r})]}),(0,Q.jsxs)(`td`,{className:`adm-ttl-page`,children:[`Fuula/Page`,(0,Q.jsx)(`br`,{}),`No.`,(0,Q.jsx)(`br`,{}),(0,Q.jsx)(`strong`,{children:`1 of 1`})]})]})})}),(0,Q.jsxs)(`div`,{className:`adm-card-body`,children:[(0,Q.jsxs)(`div`,{className:`adm-fields-area`,children:[(0,Q.jsxs)(`div`,{className:`adm-field-row`,children:[(0,Q.jsx)(`span`,{className:`adm-label`,children:`Branch:`}),(0,Q.jsxs)(`span`,{className:`adm-value-wrap`,children:[(0,Q.jsx)(`span`,{className:`adm-val-text`,children:t}),(0,Q.jsx)(`span`,{className:`adm-val-rule`})]})]}),(0,Q.jsxs)(`div`,{className:`adm-field-row`,children:[(0,Q.jsx)(`span`,{className:`adm-label`,children:`Full Name:`}),(0,Q.jsxs)(`span`,{className:`adm-value-wrap`,children:[(0,Q.jsx)(`span`,{className:`adm-val-text adm-name-bold`,children:n}),(0,Q.jsx)(`span`,{className:`adm-val-rule`})]})]}),(0,Q.jsxs)(`div`,{className:`adm-field-row`,children:[(0,Q.jsx)(`span`,{className:`adm-label`,children:`Reg. No.:`}),(0,Q.jsxs)(`span`,{className:`adm-value-wrap`,style:{minWidth:`140px`},children:[(0,Q.jsx)(`span`,{className:`adm-val-text`,children:i}),(0,Q.jsx)(`span`,{className:`adm-val-rule`})]})]}),(0,Q.jsxs)(`div`,{className:`adm-field-row`,children:[(0,Q.jsx)(`span`,{className:`adm-label`,children:`Age:`}),(0,Q.jsxs)(`span`,{className:`adm-value-wrap`,style:{minWidth:`50px`},children:[(0,Q.jsx)(`span`,{className:`adm-val-text`,style:{textAlign:`center`},children:a}),(0,Q.jsx)(`span`,{className:`adm-val-rule`})]}),(0,Q.jsx)(`span`,{className:`adm-label`,style:{marginLeft:`14px`},children:`Sex:`}),(0,Q.jsxs)(`span`,{className:`adm-value-wrap`,style:{minWidth:`60px`},children:[(0,Q.jsx)(`span`,{className:`adm-val-text`,style:{textAlign:`center`},children:o}),(0,Q.jsx)(`span`,{className:`adm-val-rule`})]})]}),(0,Q.jsxs)(`div`,{className:`adm-field-row`,children:[(0,Q.jsx)(`span`,{className:`adm-label`,children:`Occupation:`}),(0,Q.jsxs)(`span`,{className:`adm-value-wrap`,children:[(0,Q.jsx)(`span`,{className:`adm-val-text`,children:s}),(0,Q.jsx)(`span`,{className:`adm-val-rule`})]})]}),(0,Q.jsxs)(`div`,{className:`adm-field-row`,children:[(0,Q.jsx)(`span`,{className:`adm-label`,children:`Assessment Center:`}),(0,Q.jsxs)(`span`,{className:`adm-value-wrap`,children:[(0,Q.jsx)(`span`,{className:`adm-val-text`,children:c}),(0,Q.jsx)(`span`,{className:`adm-val-rule`})]})]}),(0,Q.jsx)(`div`,{className:`adm-legal-notice`,children:`This card is to be presented by the candidate at the session of the assessment for which he/she is registered. It is illegal for the candidate to attempt to sit for the occupation for which he/she is not registered.`}),(0,Q.jsx)(`div`,{className:`adm-sig-line`})]}),(0,Q.jsx)(`div`,{className:`adm-photo-container`,children:(0,Q.jsxs)(`div`,{className:`adm-photo-box`,children:[(0,Q.jsx)(`span`,{className:`adm-photo-tag`,children:`3×4`}),(0,Q.jsx)(`span`,{className:`adm-photo-sub`,children:`PHOTO`})]})})]})]})},TU=({students:e,onClose:t})=>{let n=CU(e,4);return(0,Q.jsxs)(Q.Fragment,{children:[(0,Q.jsx)(`style`,{children:`
-        /* ── Print ── */
+      `})]})},{Text:SU}=lV;function CU(e,t){let n=[];for(let r=0;r<e.length;r+=t)n.push(e.slice(r,r+t));return n}var wU=({student:e})=>{let t=BH.location||e.CityZone||e.Branch||`Adama`,n=e.FullName||`${e.FirstName||``} ${e.MiddleName||``} ${e.LastName||``}`.trim(),r=e.SN||``,i=e.LabourID||e.SN||``,a=e.Age||``,o=e.Gender||e.Sex||``,s=e.Subject||`DOMESTIC WORK`,c=e.AssessmentCenter||BH.instituteName.english;return(0,Q.jsxs)(`div`,{className:`adm-card`,children:[(0,Q.jsx)(`table`,{className:`adm-header-table`,children:(0,Q.jsx)(`tbody`,{children:(0,Q.jsxs)(`tr`,{children:[(0,Q.jsx)(`td`,{className:`adm-cell-logo`,children:(0,Q.jsx)(`img`,{src:`/ocapd_crest.png`,alt:`Logo`,className:`adm-logo-crest`,onError:e=>{e.target.src=`/ocapd_logo.jpg`}})}),(0,Q.jsxs)(`td`,{className:`adm-cell-center`,children:[(0,Q.jsx)(`div`,{className:`adm-company-subtitle`,children:`Maqaa Mana Hojii / Company Name`}),(0,Q.jsx)(`div`,{className:`adm-company-name`,children:BH.instituteName.english}),(0,Q.jsx)(`div`,{className:`adm-org-line1`,children:`Ejensii Mirkaneessa Gahumsa Ogummaa Oromiyaa`}),(0,Q.jsx)(`div`,{className:`adm-org-line2`,children:`የኦሮሚያ የሙያ ብቃት ማረጋገጫ ኤጄንሲ`}),(0,Q.jsx)(`div`,{className:`adm-org-line3`,children:`Oromia Occupational Competence Assurance Agency`})]}),(0,Q.jsxs)(`td`,{className:`adm-cell-right`,children:[(0,Q.jsxs)(`div`,{className:`adm-meta-label`,children:[`Lakk.Sanadaa /`,(0,Q.jsx)(`br`,{}),`Document No.`]}),(0,Q.jsx)(`div`,{className:`adm-doc-number`,children:`OF/OCAPD/002`})]})]})})}),(0,Q.jsx)(`table`,{className:`adm-title-table`,children:(0,Q.jsx)(`tbody`,{children:(0,Q.jsxs)(`tr`,{children:[(0,Q.jsx)(`td`,{className:`adm-ttl-meta`,children:`Mata-duree/Title`}),(0,Q.jsxs)(`td`,{className:`adm-ttl-heading`,children:[(0,Q.jsx)(`div`,{className:`adm-ttl-oromo`,children:`Unkaa Waraqaa Eenyummaa Madaalamaa`}),(0,Q.jsx)(`div`,{className:`adm-ttl-english`,children:`Candidate Identification Card Form`})]}),(0,Q.jsxs)(`td`,{className:`adm-ttl-issue`,children:[`Lakk.Maxxansaa/Issue No. `,(0,Q.jsx)(`strong`,{children:r})]}),(0,Q.jsxs)(`td`,{className:`adm-ttl-page`,children:[`Fuula/Page: `,(0,Q.jsx)(`strong`,{children:`1 of 1`})]})]})})}),(0,Q.jsxs)(`div`,{className:`adm-card-body`,children:[(0,Q.jsx)(`div`,{className:`adm-photo-container`,children:(0,Q.jsxs)(`div`,{className:`adm-photo-box`,children:[(0,Q.jsx)(`span`,{className:`adm-photo-tag`,children:`3×4`}),(0,Q.jsx)(`span`,{className:`adm-photo-sub`,children:`PHOTO`})]})}),(0,Q.jsxs)(`div`,{className:`adm-fields-area`,children:[(0,Q.jsxs)(`div`,{className:`adm-field-row`,children:[(0,Q.jsx)(`span`,{className:`adm-label`,children:`Branch:`}),(0,Q.jsxs)(`span`,{className:`adm-value-wrap`,children:[(0,Q.jsx)(`span`,{className:`adm-val-text`,children:t}),(0,Q.jsx)(`span`,{className:`adm-val-rule`})]})]}),(0,Q.jsxs)(`div`,{className:`adm-field-row`,children:[(0,Q.jsx)(`span`,{className:`adm-label`,children:`Full Name:`}),(0,Q.jsxs)(`span`,{className:`adm-value-wrap`,children:[(0,Q.jsx)(`span`,{className:`adm-val-text adm-name-bold`,children:n}),(0,Q.jsx)(`span`,{className:`adm-val-rule`})]})]}),(0,Q.jsxs)(`div`,{className:`adm-field-row`,children:[(0,Q.jsx)(`span`,{className:`adm-label`,children:`Reg. No.:`}),(0,Q.jsxs)(`span`,{className:`adm-value-wrap`,style:{minWidth:`130px`},children:[(0,Q.jsx)(`span`,{className:`adm-val-text`,children:i}),(0,Q.jsx)(`span`,{className:`adm-val-rule`})]})]}),(0,Q.jsxs)(`div`,{className:`adm-field-row`,children:[(0,Q.jsx)(`span`,{className:`adm-label`,children:`Age:`}),(0,Q.jsxs)(`span`,{className:`adm-value-wrap`,style:{minWidth:`48px`},children:[(0,Q.jsx)(`span`,{className:`adm-val-text`,style:{textAlign:`center`},children:a}),(0,Q.jsx)(`span`,{className:`adm-val-rule`})]}),(0,Q.jsx)(`span`,{className:`adm-label`,style:{marginLeft:`12px`},children:`Sex:`}),(0,Q.jsxs)(`span`,{className:`adm-value-wrap`,style:{minWidth:`55px`},children:[(0,Q.jsx)(`span`,{className:`adm-val-text`,style:{textAlign:`center`},children:o}),(0,Q.jsx)(`span`,{className:`adm-val-rule`})]})]}),(0,Q.jsxs)(`div`,{className:`adm-field-row`,children:[(0,Q.jsx)(`span`,{className:`adm-label`,children:`Occupation:`}),(0,Q.jsxs)(`span`,{className:`adm-value-wrap`,children:[(0,Q.jsx)(`span`,{className:`adm-val-text`,children:s}),(0,Q.jsx)(`span`,{className:`adm-val-rule`})]})]}),(0,Q.jsxs)(`div`,{className:`adm-field-row`,children:[(0,Q.jsx)(`span`,{className:`adm-label`,children:`Assessment Center:`}),(0,Q.jsxs)(`span`,{className:`adm-value-wrap`,children:[(0,Q.jsx)(`span`,{className:`adm-val-text`,children:c}),(0,Q.jsx)(`span`,{className:`adm-val-rule`})]})]})]}),(0,Q.jsx)(`div`,{style:{clear:`both`}}),(0,Q.jsx)(`div`,{className:`adm-legal-notice`,children:`This card is to be presented by the candidate at the session of the assessment for which he/she is registered. It is illegal for the candidate to attempt to sit for the occupation for which he/she is not registered.`}),(0,Q.jsx)(`div`,{className:`adm-sig-line`})]})]})},TU=({students:e,onClose:t})=>{let n=CU(e,4);return(0,Q.jsxs)(Q.Fragment,{children:[(0,Q.jsx)(`style`,{children:`
+        /* ── Print Settings ── */
         @media print {
           @page { size: A4 landscape; margin: 3mm; }
           .no-print { display: none !important; }
@@ -1452,7 +1452,6 @@ Minimum version required to store current data is: `+c+`.
             box-shadow: none !important;
             margin: 0 !important;
             border-radius: 0 !important;
-            /* strict A4 landscape minus margins */
             width: 291mm !important;
             height: 204mm !important;
             padding: 2mm !important;
@@ -1462,11 +1461,10 @@ Minimum version required to store current data is: `+c+`.
             page-break-after: auto !important;
             break-after: auto !important;
           }
-          /* prevent any card from growing beyond its grid cell */
           .adm-card { overflow: hidden !important; }
         }
 
-        /* ── Screen shell ── */
+        /* ── Screen Shell ── */
         .adm-app-shell {
           background: #1e293b;
           min-height: 100vh;
@@ -1513,7 +1511,7 @@ Minimum version required to store current data is: `+c+`.
           background: #fff;
           font-family: 'Times New Roman', Times, serif;
           overflow: hidden;
-          min-height: 0;   /* allow grid to constrain it */
+          min-height: 0;
         }
 
         /* ── 1. Header Table ── */
@@ -1521,63 +1519,66 @@ Minimum version required to store current data is: `+c+`.
           width: 100%;
           border-collapse: collapse;
           border-bottom: 1.8px solid #004b93;
-          /* no extra height — let content drive it */
           table-layout: fixed;
         }
         .adm-header-table td {
           border: 1.2px solid #004b93;
-          padding: 0;           /* zero cell padding — logo fills flush */
+          padding: 0;
           vertical-align: middle;
         }
         .adm-cell-logo {
           width: 14%;
-          padding: 0 !important;
+          padding: 2px !important;
+          text-align: center;
           overflow: hidden;
         }
-        /* Logo fills its cell completely */
+        /* Crest logo is transparent and tightly cropped */
         .adm-logo-crest {
           width: 100%;
           height: 100%;
-          min-height: 52px;
-          object-fit: cover;
+          max-height: 56px;
+          min-height: 50px;
+          object-fit: contain;
           display: block;
+          margin: 0 auto;
         }
         .adm-cell-center {
-          width: 66%;
+          width: 68%;
           text-align: center;
           padding: 2px 4px !important;
         }
         .adm-company-subtitle {
           font-size: 7px;
-          color: #444;
+          color: #555;
           font-style: italic;
+          line-height: 1;
           margin-bottom: 0;
-          line-height: 1.1;
         }
+        /* Company name is smaller than Agency lines */
         .adm-company-name {
-          font-size: 9.5px;
-          font-weight: 900;
-          color: #000;
-          line-height: 1.15;
+          font-size: 8.5px;
+          font-weight: 700;
+          color: #333;
+          line-height: 1.1;
           text-transform: uppercase;
+          margin-bottom: 1px;
         }
-        .adm-org-line1 { font-size: 8.5px; font-weight: 800; color: #003e7e; line-height: 1.1; }
-        .adm-org-line2 { font-size: 8px;   font-weight: 700; color: #003e7e; line-height: 1.1; }
-        .adm-org-line3 { font-size: 8.5px; font-weight: 800; color: #003e7e; line-height: 1.1; }
+        /* Agency name: prominent, larger */
+        .adm-org-line1 { font-size: 10px;   font-weight: 900; color: #003e7e; line-height: 1.1; }
+        .adm-org-line2 { font-size: 9px;    font-weight: 800; color: #003e7e; line-height: 1.1; }
+        .adm-org-line3 { font-size: 9.5px;  font-weight: 900; color: #003e7e; line-height: 1.1; }
         .adm-cell-right {
-          width: 20%;
+          width: 18%;
           text-align: center;
-          font-size: 7.5px;
-          font-weight: 600;
-          line-height: 1.25;
+          font-size: 8px;
+          font-weight: 700;
+          line-height: 1.2;
           padding: 2px 3px !important;
         }
-        .adm-meta-label { color: #111; font-weight: 700; font-size: 7.5px; }
-        .adm-doc-number { font-size: 9px;  font-weight: 900; color: #000; margin-top: 1px; }
-        .adm-sn-label   { font-size: 7.5px; font-weight: 700; color: #444; margin-top: 2px; }
-        .adm-sn-value   { font-size: 10px;  font-weight: 900; color: #000; }
+        .adm-meta-label { color: #111; font-weight: 700; font-size: 8px; }
+        .adm-doc-number { font-size: 10px; font-weight: 900; color: #000; margin-top: 2px; }
 
-        /* ── 2. Title Row — minimal padding so 4 cards fit per page ── */
+        /* ── 2. Title Row (slim, minimal padding, clean) ── */
         .adm-title-table {
           width: 100%;
           border-collapse: collapse;
@@ -1586,99 +1587,36 @@ Minimum version required to store current data is: `+c+`.
         }
         .adm-title-table td {
           border: 1px solid #004b93;
-          padding: 1px 4px;    /* ← kept minimal */
+          padding: 1px 3px;
           vertical-align: middle;
           font-size: 8px;
+          line-height: 1.1;
         }
-        .adm-ttl-meta    { width: 13%; font-weight: 800; font-size: 8px; color: #000; }
-        .adm-ttl-heading { width: 60%; text-align: center; font-weight: 800; line-height: 1.15; }
-        .adm-ttl-oromo   { font-size: 9px;  color: #000; font-weight: 800; }
-        .adm-ttl-english { font-size: 8.5px; color: #000; font-weight: 800; }
-        .adm-ttl-issue   { width: 14%; text-align: center; line-height: 1.2; font-size: 8px; color: #000; }
-        .adm-ttl-page    { width: 13%; text-align: center; line-height: 1.2; font-size: 8px; color: #000; }
+        .adm-ttl-meta    { width: 14%; font-weight: 800; font-size: 8px; color: #000; white-space: nowrap; }
+        .adm-ttl-heading { width: 56%; text-align: center; font-weight: 800; line-height: 1.1; }
+        .adm-ttl-oromo   { font-size: 9px;   color: #000; font-weight: 800; margin: 0; }
+        .adm-ttl-english { font-size: 8.5px; color: #000; font-weight: 800; margin: 0; }
+        .adm-ttl-issue   { width: 18%; text-align: center; line-height: 1.1; font-size: 8px; color: #000; white-space: nowrap; }
+        .adm-ttl-page    { width: 12%; text-align: center; line-height: 1.1; font-size: 8px; color: #000; white-space: nowrap; }
 
         /* ── 3. Card Body ── */
         .adm-card-body {
-          display: flex;
+          display: block;
           flex: 1;
           min-height: 0;
-          padding: 5px 8px;
-          gap: 8px;
-        }
-        .adm-fields-area {
-          flex: 1;
-          min-width: 0;
-          display: flex;
-          flex-direction: column;
-          justify-content: space-between;
-        }
-        .adm-field-row {
-          display: flex;
-          align-items: flex-end;
-          gap: 3px 4px;
-          margin-bottom: 3px;
-        }
-        .adm-label {
-          font-size: 11px;
-          font-weight: 800;
-          color: #000;
-          white-space: nowrap;
-          padding-bottom: 2px;
-          flex-shrink: 0;
-        }
-        /* Value: text above rule — fills remaining space */
-        .adm-value-wrap {
-          display: flex;
-          flex-direction: column;
-          flex: 1;
-          min-width: 40px;
-        }
-        .adm-val-text {
-          font-size: 11.5px;
-          font-weight: 800;
-          color: #000;
-          padding: 0 3px 2px 3px;
-          min-height: 13px;
-          line-height: 1.15;
-          display: block;
-        }
-        .adm-val-rule {
-          display: block;
-          border-bottom: 1.4px solid #000;
-          width: 100%;
-        }
-        .adm-name-bold { font-size: 12px; font-weight: 900; }
-
-        .adm-legal-notice {
-          font-size: 8px;
-          font-style: italic;
-          color: #000;
-          font-weight: 600;
-          margin-top: 3px;
-          line-height: 1.3;
-          text-align: justify;
-        }
-        /* Signature — plain line only, no label */
-        .adm-sig-line {
-          border-bottom: 1.4px solid #000;
-          margin-top: 6px;
-          width: 100%;
-          height: 12px;
+          padding: 6px 8px 4px 8px;
         }
 
-        /* ── 4. Photo Box ── */
+        /* Photo Box: floated to top-right */
         .adm-photo-container {
-          width: 80px;
-          flex-shrink: 0;
-          display: flex;
-          flex-direction: column;
-          align-items: center;
-          justify-content: flex-start;
-          padding-top: 2px;
+          float: right;
+          width: 76px;
+          margin-left: 8px;
+          margin-bottom: 4px;
         }
         .adm-photo-box {
-          width: 76px;
-          height: 102px;
+          width: 74px;
+          height: 98px;
           border: 1.8px solid #000;
           display: flex;
           flex-direction: column;
@@ -1689,10 +1627,69 @@ Minimum version required to store current data is: `+c+`.
         }
         .adm-photo-tag { font-size: 15px; font-weight: 900; color: #000; }
         .adm-photo-sub { font-size: 9px; font-weight: 800; color: #000; text-transform: uppercase; letter-spacing: 0.5px; }
-      `}),(0,Q.jsxs)(`div`,{className:`adm-app-shell`,children:[(0,Q.jsxs)(`div`,{className:`no-print adm-toolbar-card`,children:[(0,Q.jsxs)(pR,{size:`middle`,children:[(0,Q.jsx)(oB,{icon:(0,Q.jsx)(gH,{}),color:`blue`,style:{fontSize:`14px`,padding:`5px 12px`,fontWeight:700},children:`OF/OCAPD/002 — Candidate Identification Cards`}),(0,Q.jsxs)(SU,{style:{fontSize:`13px`,color:`#475569`},children:[(0,Q.jsx)(`strong`,{children:e.length}),` `,e.length===1?`candidate`:`candidates`,` \xA0•\xA0 `,n.length,` `,n.length===1?`page`:`pages`,` \xA0•\xA0 A4 Landscape`]})]}),(0,Q.jsxs)(pR,{size:`small`,children:[(0,Q.jsx)(jF,{type:`primary`,size:`large`,icon:(0,Q.jsx)(yH,{}),onClick:()=>window.print(),style:{background:`#004b93`,borderColor:`#004b93`,fontWeight:700,padding:`0 24px`},children:`Print All Cards`}),t&&(0,Q.jsx)(jF,{size:`large`,icon:(0,Q.jsx)(iH,{}),onClick:t,style:{fontWeight:600},children:`Return to Portal`})]})]}),n.map((e,t)=>(0,Q.jsxs)(`div`,{className:`adm-print-sheet`,children:[e.map(e=>(0,Q.jsx)(wU,{student:e},e.SN||e.FullName)),e.length<4&&Array.from({length:4-e.length}).map((e,t)=>(0,Q.jsx)(`div`,{style:{visibility:`hidden`},className:`adm-card`},`empty-${t}`))]},t))]})]})},{Text:EU}=lV,DU=({student:e})=>{let t=e?.FullName??`${e?.FirstName||``} ${e?.MiddleName||``} ${e?.LastName||``}`.trim(),n=e?.FirstName??(t.split(` `)[0]||``),r=e?.MiddleName??(t.split(` `)[1]||``),i=e?.LastName??(t.split(` `).slice(2).join(` `)||``),a=e?.Age??``,o=e?.Gender??``,s=e?.PhoneNumber1??``,c=e?.Subject||`DOMESTIC WORK`,l=BH.instituteName.english,u=e?.BirthDate||e?.DOB||``,d=e?.TrainingEndDate||e?.EndDate||``,f=e?.Region||`ETHIOPIA`,p=e?.CityZone||``,m=e?.DistrictKebele||``;return(0,Q.jsx)(`div`,{className:`ocapd-sheet`,children:(0,Q.jsxs)(`div`,{className:`ocapd-paper-wrapper`,children:[(0,Q.jsxs)(`div`,{className:`ocapd-watermark-bg`,children:[`Waraabbii Mirkaneessa fi To'ataa...`,(0,Q.jsx)(`br`,{}),`Waraabbii Mirkaneessa fi To'ataa...`]}),(0,Q.jsxs)(`div`,{className:`ocapd-content-layer`,children:[(0,Q.jsx)(`table`,{className:`ocapd-header-table`,children:(0,Q.jsx)(`tbody`,{children:(0,Q.jsxs)(`tr`,{children:[(0,Q.jsx)(`td`,{className:`ocapd-logo-cell`,children:(0,Q.jsx)(`img`,{src:`/ocapd_logo.jpg`,alt:`Agency Crest`,className:`ocapd-logo-crest`,onError:e=>{e.target.src=`/logo.png`}})}),(0,Q.jsxs)(`td`,{className:`ocapd-center-cell`,children:[(0,Q.jsx)(`div`,{className:`ocapd-company-subtitle`,children:`Maqaa Mana Hojii / Company Name`}),(0,Q.jsx)(`div`,{className:`ocapd-company-name`,children:l}),(0,Q.jsx)(`div`,{className:`ocapd-agency-oromo`,children:`Ejensii Mirkaneessa Gahumsa Ogummaa Oromiyaa`}),(0,Q.jsx)(`div`,{className:`ocapd-agency-amharic`,children:`የኦሮሚያ የሙያ ብቃት ማረጋገጫ ኤጄንሲ`}),(0,Q.jsx)(`div`,{className:`ocapd-agency-english`,children:`Oromia Occupational Competence Assurance Agency`})]}),(0,Q.jsxs)(`td`,{className:`ocapd-right-cell`,children:[(0,Q.jsxs)(`div`,{className:`ocapd-meta-sub`,children:[`Lakk.Sanadaa /`,(0,Q.jsx)(`br`,{}),`Document No.`]}),(0,Q.jsx)(`div`,{className:`ocapd-doc-code`,children:`OF/OCAPD/001`})]})]})})}),(0,Q.jsx)(`table`,{className:`ocapd-title-table`,children:(0,Q.jsx)(`tbody`,{children:(0,Q.jsxs)(`tr`,{children:[(0,Q.jsx)(`td`,{className:`ocapd-ttl-meta`,children:`Mata-duree / Title`}),(0,Q.jsxs)(`td`,{className:`ocapd-ttl-center`,children:[(0,Q.jsx)(`div`,{className:`ocapd-ttl-oromo`,children:`Unka Iyyannoo Madaallii Madaalamaa`}),(0,Q.jsx)(`div`,{className:`ocapd-ttl-english`,children:`Candidates Assessment Application Form`})]}),(0,Q.jsxs)(`td`,{className:`ocapd-ttl-issue`,children:[`Lakk.Maxxansaa`,(0,Q.jsx)(`br`,{}),`/Issue No. `,(0,Q.jsx)(`strong`,{children:`01`})]}),(0,Q.jsxs)(`td`,{className:`ocapd-ttl-page`,children:[`Fuula / Page No.`,(0,Q.jsx)(`br`,{}),(0,Q.jsx)(`strong`,{children:`Page 1 of 1`})]})]})})}),(0,Q.jsx)(`div`,{className:`ocapd-instruction-bar`,children:`This form, when completed, must be forwarded together with four (size 3X4) photos to the center of competence.`}),(0,Q.jsxs)(`div`,{className:`ocapd-body`,children:[(0,Q.jsx)(`div`,{className:`ocapd-photo-box-wrap`,children:(0,Q.jsxs)(`div`,{className:`ocapd-photo-frame`,children:[(0,Q.jsx)(`span`,{className:`photo-title`,children:`Photos`}),(0,Q.jsx)(`span`,{className:`photo-dims`,children:`3×4`})]})}),(0,Q.jsx)(`div`,{className:`ocapd-name-trio`,children:(0,Q.jsxs)(`div`,{className:`name-cols-row`,children:[(0,Q.jsxs)(`div`,{className:`name-col`,children:[(0,Q.jsx)(`span`,{className:`name-val`,children:n}),(0,Q.jsx)(`span`,{className:`name-rule`}),(0,Q.jsx)(`span`,{className:`name-lbl`,children:`Name`})]}),(0,Q.jsxs)(`div`,{className:`name-col`,children:[(0,Q.jsx)(`span`,{className:`name-val`,children:r}),(0,Q.jsx)(`span`,{className:`name-rule`}),(0,Q.jsx)(`span`,{className:`name-lbl`,children:`Father's Name`})]}),(0,Q.jsxs)(`div`,{className:`name-col`,children:[(0,Q.jsx)(`span`,{className:`name-val`,children:i}),(0,Q.jsx)(`span`,{className:`name-rule`}),(0,Q.jsx)(`span`,{className:`name-lbl`,children:`Grand Father's Name`})]})]})}),(0,Q.jsxs)(`div`,{className:`form-item-row`,children:[(0,Q.jsx)(`span`,{className:`f-label`,children:`Birth date`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`115px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,children:u}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`16px`},children:`Age`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`48px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,style:{textAlign:`center`},children:a}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`16px`},children:`Gender`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`65px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,style:{textAlign:`center`},children:o}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]})]}),(0,Q.jsxs)(`div`,{className:`form-item-row`,children:[(0,Q.jsx)(`span`,{className:`f-label`,children:`Citizenship`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`150px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,children:`ETHIOPIA`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`16px`},children:`Address`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap f-val-grow`,children:[(0,Q.jsx)(`span`,{className:`f-val-text`,children:f}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]})]}),(0,Q.jsxs)(`div`,{className:`form-item-row`,children:[(0,Q.jsx)(`span`,{className:`f-label`,children:`Woreda's / Sub City`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`130px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,children:p}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`12px`},children:`Kebele`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`110px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,children:m}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`12px`},children:`H.No`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap f-val-grow`,children:[(0,Q.jsx)(`span`,{className:`f-val-text`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]})]}),(0,Q.jsxs)(`div`,{className:`form-item-row`,children:[(0,Q.jsx)(`span`,{className:`f-label`,children:`Phone/Residence`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`120px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,children:s}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`12px`},children:`Office`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`80px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`12px`},children:`Cell/Mobile`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap f-val-grow`,children:[(0,Q.jsx)(`span`,{className:`f-val-text`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]})]}),(0,Q.jsxs)(`div`,{className:`form-item-row`,children:[(0,Q.jsx)(`span`,{className:`f-label`,children:`Presently:-`}),(0,Q.jsx)(`span`,{className:`f-label f-semi`,children:`Student`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`46px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label f-semi`,children:`Employed`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`40px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label f-semi`,children:`Self Employed`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`36px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`10px`},children:`Job Seeker`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`40px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,style:{textAlign:`center`,fontWeight:900,fontSize:`14px`},children:`✓`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]})]}),(0,Q.jsxs)(`div`,{className:`form-item-row`,children:[(0,Q.jsx)(`span`,{className:`f-label`,children:`Year of Graduation`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`135px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,children:d}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`14px`},children:`Employment Date`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap f-val-grow`,children:[(0,Q.jsx)(`span`,{className:`f-val-text`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]})]}),(0,Q.jsxs)(`div`,{className:`form-item-row`,children:[(0,Q.jsx)(`span`,{className:`f-label`,children:`(Name of Occupation)`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`145px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,children:c}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`12px`},children:`Assessment Center`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap f-val-grow`,children:[(0,Q.jsx)(`span`,{className:`f-val-text`,children:l}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]})]}),(0,Q.jsx)(`div`,{style:{clear:`both`}}),(0,Q.jsxs)(`div`,{className:`prose-statement`,children:[`I assure that I have gained practical experience in the occupation`,` `,(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`125px`,display:`inline-flex`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,children:c}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),` `,`of`,` `,(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`75px`,display:`inline-flex`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),` `,`for`,` `,(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`55px`,display:`inline-flex`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,style:{textAlign:`center`,fontWeight:900},children:`21`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),` `,`months/Year`]}),(0,Q.jsx)(`div`,{className:`prose-statement`,style:{marginTop:`7px`},children:`I am able to read and write and communicate in the following language`}),(0,Q.jsxs)(`div`,{className:`form-item-row`,style:{marginTop:`4px`},children:[(0,Q.jsx)(`span`,{className:`f-label`,children:`English`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`95px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`18px`},children:`other, which one`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap f-val-grow`,children:[(0,Q.jsx)(`span`,{className:`f-val-text`,style:{fontWeight:800},children:`Afaan Oromo / Amharic`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]})]}),(0,Q.jsxs)(`div`,{className:`prose-statement`,style:{marginTop:`6px`},children:[`Along with this application, I shall pay an application fee of birr`,` `,(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`90px`,display:`inline-flex`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,style:{textAlign:`center`,fontWeight:900},children:`348.82`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]})]}),(0,Q.jsx)(`div`,{className:`prose-statement`,style:{marginTop:`7px`},children:`If any special arrangement (related to health and physical disability)`}),(0,Q.jsx)(`div`,{className:`f-underline-block`}),(0,Q.jsx)(`div`,{className:`prose-statement`,style:{marginTop:`10px`},children:`I wish to be assessed for the occupation mentioned above`}),(0,Q.jsxs)(`div`,{className:`form-item-row`,style:{marginTop:`12px`},children:[(0,Q.jsx)(`span`,{className:`f-label`,children:`Name`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`180px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,style:{fontWeight:800},children:t}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`16px`},children:`Date`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`100px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,children:d}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`16px`},children:`Signature`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap f-val-grow`,children:[(0,Q.jsx)(`span`,{className:`f-val-text`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]})]})]})]}),(0,Q.jsxs)(`div`,{className:`ocapd-official-footer`,children:[(0,Q.jsx)(`div`,{className:`footer-oromo`,children:`Sanada kanatti fayyadamuu keessan dura maxxansa sirrii ta'uu isaa mirkaneessa !!`}),(0,Q.jsx)(`div`,{className:`footer-english`,children:`Please make sure that this is the correct issue before use!!`})]})]})})},OU=({data:e,students:t,onClose:n})=>{let r=t&&t.length>0?t:e?[e]:[];return(0,Q.jsxs)(Q.Fragment,{children:[(0,Q.jsx)(`style`,{children:`
-        /* ── Print ── */
+
+        /* Fields */
+        .adm-fields-area {
+          overflow: hidden;
+        }
+        .adm-field-row {
+          display: flex;
+          align-items: flex-end;
+          gap: 3px 4px;
+          margin-bottom: 3.5px;
+        }
+        .adm-label {
+          font-size: 11.5px;
+          font-weight: 800;
+          color: #000;
+          white-space: nowrap;
+          padding-bottom: 2px;
+          flex-shrink: 0;
+        }
+        .adm-value-wrap {
+          display: flex;
+          flex-direction: column;
+          flex: 1;
+          min-width: 40px;
+        }
+        .adm-val-text {
+          font-size: 12px;
+          font-weight: 800;
+          color: #000;
+          padding: 0 3px 2px 3px;
+          min-height: 14px;
+          line-height: 1.15;
+          display: block;
+        }
+        .adm-val-rule {
+          display: block;
+          border-bottom: 1.4px solid #000;
+          width: 100%;
+        }
+        .adm-name-bold { font-size: 12.5px; font-weight: 900; }
+
+        /* Legal Notice: spans full width below floated photo at normal readable font size */
+        .adm-legal-notice {
+          font-size: 10.5px;
+          font-style: italic;
+          color: #000;
+          font-weight: 600;
+          margin-top: 4px;
+          line-height: 1.35;
+          text-align: justify;
+        }
+
+        /* Signature Line */
+        .adm-sig-line {
+          border-bottom: 1.4px solid #000;
+          margin-top: 6px;
+          width: 100%;
+          height: 10px;
+        }
+      `}),(0,Q.jsxs)(`div`,{className:`adm-app-shell`,children:[(0,Q.jsxs)(`div`,{className:`no-print adm-toolbar-card`,children:[(0,Q.jsxs)(pR,{size:`middle`,children:[(0,Q.jsx)(oB,{icon:(0,Q.jsx)(gH,{}),color:`blue`,style:{fontSize:`14px`,padding:`5px 12px`,fontWeight:700},children:`OF/OCAPD/002 — Candidate Identification Cards`}),(0,Q.jsxs)(SU,{style:{fontSize:`13px`,color:`#475569`},children:[(0,Q.jsx)(`strong`,{children:e.length}),` `,e.length===1?`candidate`:`candidates`,` \xA0•\xA0 `,n.length,` `,n.length===1?`page`:`pages`,` \xA0•\xA0 A4 Landscape`]})]}),(0,Q.jsxs)(pR,{size:`small`,children:[(0,Q.jsx)(jF,{type:`primary`,size:`large`,icon:(0,Q.jsx)(yH,{}),onClick:()=>window.print(),style:{background:`#004b93`,borderColor:`#004b93`,fontWeight:700,padding:`0 24px`},children:`Print All Cards`}),t&&(0,Q.jsx)(jF,{size:`large`,icon:(0,Q.jsx)(iH,{}),onClick:t,style:{fontWeight:600},children:`Return to Portal`})]})]}),n.map((e,t)=>(0,Q.jsxs)(`div`,{className:`adm-print-sheet`,children:[e.map(e=>(0,Q.jsx)(wU,{student:e},e.SN||e.FullName)),e.length<4&&Array.from({length:4-e.length}).map((e,t)=>(0,Q.jsx)(`div`,{style:{visibility:`hidden`},className:`adm-card`},`empty-${t}`))]},t))]})]})},{Text:EU}=lV,DU=({student:e,pageNumber:t,totalPages:n})=>{let r=e?.FullName??`${e?.FirstName||``} ${e?.MiddleName||``} ${e?.LastName||``}`.trim(),i=e?.FirstName??(r.split(` `)[0]||``),a=e?.MiddleName??(r.split(` `)[1]||``),o=e?.LastName??(r.split(` `).slice(2).join(` `)||``),s=e?.Age??``,c=e?.Gender??``,l=e?.PhoneNumber1??``,u=e?.Subject||`DOMESTIC WORK`,d=BH.instituteName.english,f=e?.BirthDate||e?.DOB||``,p=e?.TrainingEndDate||e?.EndDate||``,m=e?.Region||`ETHIOPIA`,h=e?.CityZone||``,g=e?.DistrictKebele||``,_=e?.SN||String(t);return(0,Q.jsx)(`div`,{className:`ocapd-sheet`,children:(0,Q.jsxs)(`div`,{className:`ocapd-paper-wrapper`,children:[(0,Q.jsxs)(`div`,{className:`ocapd-watermark-bg`,children:[`Waraabbii Mirkaneessa fi To'ataa...`,(0,Q.jsx)(`br`,{}),`Waraabbii Mirkaneessa fi To'ataa...`]}),(0,Q.jsxs)(`div`,{className:`ocapd-content-layer`,children:[(0,Q.jsx)(`table`,{className:`ocapd-header-table`,children:(0,Q.jsx)(`tbody`,{children:(0,Q.jsxs)(`tr`,{children:[(0,Q.jsx)(`td`,{className:`ocapd-logo-cell`,children:(0,Q.jsx)(`img`,{src:`/ocapd_crest.png`,alt:`Agency Crest`,className:`ocapd-logo-crest`,onError:e=>{e.target.src=`/ocapd_logo.jpg`}})}),(0,Q.jsxs)(`td`,{className:`ocapd-center-cell`,children:[(0,Q.jsx)(`div`,{className:`ocapd-company-subtitle`,children:`Maqaa Mana Hojii / Company Name`}),(0,Q.jsx)(`div`,{className:`ocapd-company-name`,children:d}),(0,Q.jsx)(`div`,{className:`ocapd-agency-oromo`,children:`Ejensii Mirkaneessa Gahumsa Ogummaa Oromiyaa`}),(0,Q.jsx)(`div`,{className:`ocapd-agency-amharic`,children:`የኦሮሚያ የሙያ ብቃት ማረጋገጫ ኤጄንሲ`}),(0,Q.jsx)(`div`,{className:`ocapd-agency-english`,children:`Oromia Occupational Competence Assurance Agency`})]}),(0,Q.jsxs)(`td`,{className:`ocapd-right-cell`,children:[(0,Q.jsxs)(`div`,{className:`ocapd-meta-sub`,children:[`Lakk.Sanadaa /`,(0,Q.jsx)(`br`,{}),`Document No.`]}),(0,Q.jsx)(`div`,{className:`ocapd-doc-code`,children:`OF/OCAPD/001`})]})]})})}),(0,Q.jsx)(`table`,{className:`ocapd-title-table`,children:(0,Q.jsx)(`tbody`,{children:(0,Q.jsxs)(`tr`,{children:[(0,Q.jsx)(`td`,{className:`ocapd-ttl-meta`,children:`Mata-duree / Title`}),(0,Q.jsxs)(`td`,{className:`ocapd-ttl-center`,children:[(0,Q.jsx)(`div`,{className:`ocapd-ttl-oromo`,children:`Unka Iyyannoo Madaallii Madaalamaa`}),(0,Q.jsx)(`div`,{className:`ocapd-ttl-english`,children:`Candidates Assessment Application Form`})]}),(0,Q.jsxs)(`td`,{className:`ocapd-ttl-issue`,children:[`Lakk.Maxxansaa`,(0,Q.jsx)(`br`,{}),`/Issue No. `,(0,Q.jsx)(`strong`,{children:_})]}),(0,Q.jsxs)(`td`,{className:`ocapd-ttl-page`,children:[`Fuula / Page No.`,(0,Q.jsx)(`br`,{}),(0,Q.jsxs)(`strong`,{children:[`Page `,t,` of `,n]})]})]})})}),(0,Q.jsx)(`div`,{className:`ocapd-instruction-bar`,children:`This form, when completed, must be forwarded together with four (size 3X4) photos to the center of competence.`}),(0,Q.jsxs)(`div`,{className:`ocapd-body`,children:[(0,Q.jsx)(`div`,{className:`ocapd-photo-box-wrap`,children:(0,Q.jsxs)(`div`,{className:`ocapd-photo-frame`,children:[(0,Q.jsx)(`span`,{className:`photo-title`,children:`Photos`}),(0,Q.jsx)(`span`,{className:`photo-dims`,children:`3×4`})]})}),(0,Q.jsx)(`div`,{className:`ocapd-name-trio`,children:(0,Q.jsxs)(`div`,{className:`name-cols-row`,children:[(0,Q.jsxs)(`div`,{className:`name-col`,children:[(0,Q.jsx)(`span`,{className:`name-val`,children:i}),(0,Q.jsx)(`span`,{className:`name-rule`}),(0,Q.jsx)(`span`,{className:`name-lbl`,children:`Name`})]}),(0,Q.jsxs)(`div`,{className:`name-col`,children:[(0,Q.jsx)(`span`,{className:`name-val`,children:a}),(0,Q.jsx)(`span`,{className:`name-rule`}),(0,Q.jsx)(`span`,{className:`name-lbl`,children:`Father's Name`})]}),(0,Q.jsxs)(`div`,{className:`name-col`,children:[(0,Q.jsx)(`span`,{className:`name-val`,children:o}),(0,Q.jsx)(`span`,{className:`name-rule`}),(0,Q.jsx)(`span`,{className:`name-lbl`,children:`Grand Father's Name`})]})]})}),(0,Q.jsxs)(`div`,{className:`form-item-row`,children:[(0,Q.jsx)(`span`,{className:`f-label`,children:`Birth date`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`125px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,children:f}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`18px`},children:`Age`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`52px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,style:{textAlign:`center`},children:s}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`18px`},children:`Gender`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`70px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,style:{textAlign:`center`},children:c}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]})]}),(0,Q.jsxs)(`div`,{className:`form-item-row`,children:[(0,Q.jsx)(`span`,{className:`f-label`,children:`Citizenship`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`160px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,children:`ETHIOPIA`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`18px`},children:`Address`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap f-val-grow`,children:[(0,Q.jsx)(`span`,{className:`f-val-text`,children:m}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]})]}),(0,Q.jsxs)(`div`,{className:`form-item-row`,children:[(0,Q.jsx)(`span`,{className:`f-label`,children:`Woreda's / Sub City`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`140px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,children:h}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`14px`},children:`Kebele`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`120px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,children:g}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`14px`},children:`H.No`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap f-val-grow`,children:[(0,Q.jsx)(`span`,{className:`f-val-text`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]})]}),(0,Q.jsxs)(`div`,{className:`form-item-row`,children:[(0,Q.jsx)(`span`,{className:`f-label`,children:`Phone/Residence`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`130px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,children:l}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`14px`},children:`Office`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`85px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`14px`},children:`Cell/Mobile`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap f-val-grow`,children:[(0,Q.jsx)(`span`,{className:`f-val-text`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]})]}),(0,Q.jsxs)(`div`,{className:`form-item-row`,children:[(0,Q.jsx)(`span`,{className:`f-label`,children:`Presently:-`}),(0,Q.jsx)(`span`,{className:`f-label f-semi`,children:`Student`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`50px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label f-semi`,children:`Employed`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`44px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label f-semi`,children:`Self Employed`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`40px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`12px`},children:`Job Seeker`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`44px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,style:{textAlign:`center`,fontWeight:900,fontSize:`15px`},children:`✓`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]})]}),(0,Q.jsxs)(`div`,{className:`form-item-row`,children:[(0,Q.jsx)(`span`,{className:`f-label`,children:`Year of Graduation`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`145px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,children:p}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`16px`},children:`Employment Date`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap f-val-grow`,children:[(0,Q.jsx)(`span`,{className:`f-val-text`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]})]}),(0,Q.jsxs)(`div`,{className:`form-item-row`,children:[(0,Q.jsx)(`span`,{className:`f-label`,children:`(Name of Occupation)`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`155px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,children:u}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`14px`},children:`Assessment Center`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap f-val-grow`,children:[(0,Q.jsx)(`span`,{className:`f-val-text`,children:d}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]})]}),(0,Q.jsx)(`div`,{style:{clear:`both`}}),(0,Q.jsxs)(`div`,{className:`prose-statement`,children:[`I assure that I have gained practical experience in the occupation`,` `,(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`140px`,display:`inline-flex`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,children:u}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),` `,`of`,` `,(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`85px`,display:`inline-flex`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),` `,`for`,` `,(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`65px`,display:`inline-flex`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,style:{textAlign:`center`,fontWeight:900},children:`21`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),` `,`months/Year`]}),(0,Q.jsx)(`div`,{className:`prose-statement`,style:{marginTop:`10px`},children:`I am able to read and write and communicate in the following language`}),(0,Q.jsxs)(`div`,{className:`form-item-row`,style:{marginTop:`5px`},children:[(0,Q.jsx)(`span`,{className:`f-label`,children:`English`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`110px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`20px`},children:`other, which one`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap f-val-grow`,children:[(0,Q.jsx)(`span`,{className:`f-val-text`,style:{fontWeight:800},children:`Afaan Oromo / Amharic`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]})]}),(0,Q.jsxs)(`div`,{className:`prose-statement`,style:{marginTop:`10px`},children:[`Along with this application, I shall pay an application fee of birr`,` `,(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`100px`,display:`inline-flex`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,style:{textAlign:`center`,fontWeight:900},children:`348.82`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]})]}),(0,Q.jsx)(`div`,{className:`prose-statement`,style:{marginTop:`10px`},children:`If any special arrangement (related to health and physical disability)`}),(0,Q.jsx)(`div`,{className:`f-underline-block`}),(0,Q.jsx)(`div`,{className:`prose-statement`,style:{marginTop:`14px`},children:`I wish to be assessed for the occupation mentioned above`}),(0,Q.jsxs)(`div`,{className:`form-item-row`,style:{marginTop:`16px`},children:[(0,Q.jsx)(`span`,{className:`f-label`,children:`Name`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`200px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,style:{fontWeight:800},children:r}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`18px`},children:`Date`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap`,style:{minWidth:`115px`},children:[(0,Q.jsx)(`span`,{className:`f-val-text`,children:p}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]}),(0,Q.jsx)(`span`,{className:`f-label`,style:{marginLeft:`18px`},children:`Signature`}),(0,Q.jsxs)(`span`,{className:`f-val-wrap f-val-grow`,children:[(0,Q.jsx)(`span`,{className:`f-val-text`}),(0,Q.jsx)(`span`,{className:`f-val-rule`})]})]})]})]}),(0,Q.jsxs)(`div`,{className:`ocapd-official-footer`,children:[(0,Q.jsx)(`div`,{className:`footer-oromo`,children:`Sanada kanatti fayyadamuu keessan dura maxxansa sirrii ta'uu isaa mirkaneessa !!`}),(0,Q.jsx)(`div`,{className:`footer-english`,children:`Please make sure that this is the correct issue before use!!`})]})]})})},OU=({data:e,students:t,onClose:n})=>{let r=t&&t.length>0?t:e?[e]:[];return(0,Q.jsxs)(Q.Fragment,{children:[(0,Q.jsx)(`style`,{children:`
+        /* ── Print Settings ── */
         @media print {
-          @page { size: A4 portrait; margin: 5mm; }
+          @page { size: A4 portrait; margin: 4mm; }
           .no-print { display: none !important; }
           body { margin: 0 !important; padding: 0 !important; background: #fff !important; }
           .ocapd-app-shell { padding: 0 !important; background: #fff !important; }
@@ -1702,8 +1699,8 @@ Minimum version required to store current data is: `+c+`.
             box-shadow: none !important;
             margin: 0 !important;
             border-radius: 0 !important;
-            width: 200mm !important;
-            height: 287mm !important;
+            width: 202mm !important;
+            height: 289mm !important;
             overflow: hidden !important;
           }
           .ocapd-sheet:last-child {
@@ -1716,7 +1713,7 @@ Minimum version required to store current data is: `+c+`.
           }
         }
 
-        /* ── Screen ── */
+        /* ── Screen Shell ── */
         .ocapd-app-shell {
           background: #1e293b;
           min-height: 100vh;
@@ -1726,7 +1723,7 @@ Minimum version required to store current data is: `+c+`.
           align-items: center;
         }
 
-        /* Toolbar — raw flexbox so layout is reliable across browsers */
+        /* Screen-only Toolbar */
         .ocapd-toolbar-card {
           width: 204mm;
           max-width: 96vw;
@@ -1747,7 +1744,7 @@ Minimum version required to store current data is: `+c+`.
         /* ── A4 Portrait Sheet ── */
         .ocapd-sheet {
           width: 204mm;
-          min-height: 287mm;
+          min-height: 289mm;
           background: #fff;
           box-sizing: border-box;
           margin-bottom: 28px;
@@ -1762,9 +1759,9 @@ Minimum version required to store current data is: `+c+`.
         .ocapd-paper-wrapper {
           border: 2px solid #004b93;
           margin: 3mm;
-          padding: 8px 12px 0 12px;
+          padding: 10px 14px 0 14px;
           box-sizing: border-box;
-          min-height: calc(287mm - 6mm);
+          min-height: calc(289mm - 6mm);
           display: flex;
           flex-direction: column;
           background: #fff;
@@ -1778,8 +1775,8 @@ Minimum version required to store current data is: `+c+`.
           position: absolute;
           top: 48%; left: 50%;
           transform: translate(-50%, -50%) rotate(-32deg);
-          font-size: 30px;
-          color: rgba(0,0,0,0.045);
+          font-size: 32px;
+          color: rgba(0,0,0,0.04);
           white-space: nowrap;
           pointer-events: none;
           z-index: 0;
@@ -1798,36 +1795,84 @@ Minimum version required to store current data is: `+c+`.
           flex: 1;
         }
 
-        /* ── 1. Header ── */
+        /* ── 1. Header Table ── */
         .ocapd-header-table {
           width: 100%;
           border-collapse: collapse;
           border: 1.5px solid #000;
           table-layout: fixed;
         }
-        .ocapd-header-table td { border: 1.2px solid #000; padding: 0; vertical-align: middle; }
+        .ocapd-header-table td {
+          border: 1.2px solid #000;
+          padding: 0;
+          vertical-align: middle;
+        }
         .ocapd-logo-cell {
           width: 14%;
-          padding: 0 !important;
+          padding: 2px !important;
+          text-align: center;
           overflow: hidden;
         }
-        /* Logo fills cell completely — no padding gaps */
+        /* Crest logo is transparent and tightly cropped */
         .ocapd-logo-crest {
           width: 100%;
           height: 100%;
-          min-height: 70px;
-          object-fit: cover;
+          max-height: 80px;
+          min-height: 72px;
+          object-fit: contain;
           display: block;
+          margin: 0 auto;
         }
-        .ocapd-center-cell { width: 70%; text-align: center; padding: 3px 6px !important; }
-        .ocapd-company-subtitle { font-size: 8.5px; color: #333; font-style: italic; }
-        .ocapd-company-name     { font-size: 12px;  font-weight: 800; color: #000; margin: 1px 0; }
-        .ocapd-agency-oromo     { font-size: 13px;  font-weight: 800; color: #003e7e; line-height: 1.1; }
-        .ocapd-agency-amharic   { font-size: 12px;  font-weight: 700; color: #003e7e; line-height: 1.1; margin: 1px 0; }
-        .ocapd-agency-english   { font-size: 12.5px; font-weight: 800; color: #003e7e; line-height: 1.1; }
-        .ocapd-right-cell { width: 16%; text-align: center; font-size: 9px; line-height: 1.2; padding: 3px !important; }
+        .ocapd-center-cell {
+          width: 70%;
+          text-align: center;
+          padding: 3px 6px !important;
+        }
+        .ocapd-company-subtitle {
+          font-size: 8.5px;
+          color: #555;
+          font-style: italic;
+          line-height: 1;
+          margin-bottom: 1px;
+        }
+        /* Company Name: smaller than Agency lines as requested */
+        .ocapd-company-name {
+          font-size: 11px;
+          font-weight: 700;
+          color: #333;
+          text-transform: uppercase;
+          letter-spacing: 0.2px;
+          margin-bottom: 2px;
+        }
+        /* Agency Name lines: prominent and larger */
+        .ocapd-agency-oromo {
+          font-size: 14.5px;
+          font-weight: 900;
+          color: #003e7e;
+          line-height: 1.15;
+        }
+        .ocapd-agency-amharic {
+          font-size: 13px;
+          font-weight: 800;
+          color: #003e7e;
+          line-height: 1.15;
+          margin: 1px 0;
+        }
+        .ocapd-agency-english {
+          font-size: 13.5px;
+          font-weight: 900;
+          color: #003e7e;
+          line-height: 1.15;
+        }
+        .ocapd-right-cell {
+          width: 16%;
+          text-align: center;
+          font-size: 9.5px;
+          line-height: 1.25;
+          padding: 3px !important;
+        }
         .ocapd-meta-sub { color: #111; font-weight: 700; }
-        .ocapd-doc-code { font-size: 13px; font-weight: 900; color: #000; margin-top: 3px; }
+        .ocapd-doc-code { font-size: 13.5px; font-weight: 900; color: #000; margin-top: 3px; }
 
         /* ── 2. Title Table ── */
         .ocapd-title-table {
@@ -1836,37 +1881,43 @@ Minimum version required to store current data is: `+c+`.
           border-left: 1.5px solid #000;
           border-right: 1.5px solid #000;
           border-bottom: 1.5px solid #000;
+          table-layout: fixed;
         }
-        .ocapd-title-table td { border: 1.2px solid #000; padding: 3px 6px; vertical-align: middle; font-size: 9px; }
-        .ocapd-ttl-meta   { width: 14%; font-weight: 800; font-size: 9.5px; color: #000; }
+        .ocapd-title-table td {
+          border: 1.2px solid #000;
+          padding: 3px 6px;
+          vertical-align: middle;
+          font-size: 9.5px;
+        }
+        .ocapd-ttl-meta   { width: 14%; font-weight: 800; font-size: 10px; color: #000; }
         .ocapd-ttl-center { width: 58%; text-align: center; font-weight: 800; line-height: 1.2; }
-        .ocapd-ttl-oromo  { font-size: 11px; color: #000; }
-        .ocapd-ttl-english{ font-size: 10px; color: #000; }
-        .ocapd-ttl-issue  { width: 14%; text-align: center; line-height: 1.2; font-size: 9px; color: #000; }
-        .ocapd-ttl-page   { width: 14%; text-align: center; line-height: 1.2; font-size: 9px; color: #000; }
+        .ocapd-ttl-oromo  { font-size: 11.5px; color: #000; font-weight: 800; }
+        .ocapd-ttl-english{ font-size: 10.5px; color: #000; font-weight: 800; }
+        .ocapd-ttl-issue  { width: 14%; text-align: center; line-height: 1.2; font-size: 9.5px; color: #000; }
+        .ocapd-ttl-page   { width: 14%; text-align: center; line-height: 1.2; font-size: 9.5px; color: #000; }
 
         /* ── 3. Instruction ── */
         .ocapd-instruction-bar {
-          font-size: 11px;
-          line-height: 1.3;
-          margin: 8px 0 10px;
+          font-size: 11.5px;
+          line-height: 1.35;
+          margin: 10px 0 12px;
           color: #000;
           font-style: italic;
           font-weight: 600;
         }
 
-        /* ── 4. Body — photo floated right ── */
+        /* ── 4. Body ── */
         .ocapd-body { display: block; width: 100%; }
 
-        /* Photo floated to the right so fields below photo height extend full-width */
+        /* Photo floated to the right */
         .ocapd-photo-box-wrap {
           float: right;
-          margin-left: 14px;
+          margin-left: 16px;
           margin-bottom: 8px;
         }
         .ocapd-photo-frame {
-          width: 98px;
-          height: 128px;
+          width: 100px;
+          height: 130px;
           border: 2px solid #000;
           display: flex;
           flex-direction: column;
@@ -1875,27 +1926,27 @@ Minimum version required to store current data is: `+c+`.
           background: #fff;
           gap: 4px;
         }
-        .photo-title { font-size: 14px; font-weight: 900; color: #000; }
+        .photo-title { font-size: 15px; font-weight: 900; color: #000; }
         .photo-dims  { font-size: 12px; font-weight: 700; color: #444; }
 
         /* Names */
-        .ocapd-name-trio { margin-bottom: 10px; overflow: hidden; }
-        .name-cols-row { display: flex; justify-content: space-between; gap: 10px; }
+        .ocapd-name-trio { margin-bottom: 12px; overflow: hidden; }
+        .name-cols-row { display: flex; justify-content: space-between; gap: 12px; }
         .name-col { flex: 1; display: flex; flex-direction: column; }
-        .name-val  { font-size: 13px; font-weight: 800; color: #000; padding-bottom: 2px; min-height: 16px; }
+        .name-val  { font-size: 14px; font-weight: 800; color: #000; padding-bottom: 2px; min-height: 18px; }
         .name-rule { display: block; border-bottom: 1.5px solid #000; width: 100%; margin-bottom: 3px; }
-        .name-lbl  { font-size: 10.5px; font-weight: 800; color: #000; }
+        .name-lbl  { font-size: 11px; font-weight: 800; color: #000; }
 
-        /* Form rows */
+        /* Form rows: larger font sizes and comfortable spacing to fill page */
         .form-item-row {
           display: flex;
           align-items: flex-end;
-          margin-bottom: 9px;
+          margin-bottom: 11px;
           flex-wrap: wrap;
-          gap: 3px 5px;
+          gap: 4px 6px;
         }
         .f-label {
-          font-size: 12px;
+          font-size: 13px;
           font-weight: 800;
           color: #000;
           white-space: nowrap;
@@ -1910,23 +1961,22 @@ Minimum version required to store current data is: `+c+`.
           flex-direction: column;
           align-items: stretch;
         }
-        /* Grow to fill available horizontal space */
         .f-val-grow { flex: 1; min-width: 60px; }
         .f-val-text {
-          font-size: 12px;
+          font-size: 13px;
           font-weight: 800;
           color: #000;
-          padding: 0 4px 2px 4px;
-          min-height: 15px;
-          line-height: 1.2;
+          padding: 0 5px 2px 5px;
+          min-height: 16px;
+          line-height: 1.25;
           display: block;
         }
         .f-val-rule { display: block; border-bottom: 1.5px solid #000; width: 100%; }
 
         .prose-statement {
-          font-size: 12px;
-          line-height: 1.45;
-          margin: 5px 0 3px;
+          font-size: 13px;
+          line-height: 1.55;
+          margin: 7px 0 3px;
           color: #000;
           font-weight: 600;
         }
@@ -1937,17 +1987,17 @@ Minimum version required to store current data is: `+c+`.
           margin-top: 2px;
         }
 
-        /* ── 5. Footer — pinned to bottom ── */
+        /* ── 5. Footer (pinned to bottom) ── */
         .ocapd-official-footer {
           border-top: 3px solid #000;
-          padding: 6px 0 8px;
+          padding: 8px 0 10px;
           text-align: center;
-          font-size: 10.5px;
+          font-size: 11px;
           font-weight: 800;
-          line-height: 1.4;
-          margin-top: auto;   /* pushes to bottom of flex column */
+          line-height: 1.45;
+          margin-top: auto;
           color: #000;
         }
         .footer-oromo   { letter-spacing: 0.15px; }
         .footer-english { letter-spacing: 0.1px; }
-      `}),(0,Q.jsxs)(`div`,{className:`ocapd-app-shell`,children:[(0,Q.jsxs)(`div`,{className:`no-print ocapd-toolbar-card`,children:[(0,Q.jsxs)(`div`,{className:`ocapd-toolbar-left`,children:[(0,Q.jsx)(oB,{icon:(0,Q.jsx)(pH,{}),color:`green`,style:{fontSize:`14px`,padding:`5px 12px`,fontWeight:700},children:`OF/OCAPD/001 — Candidates Assessment Application Form`}),(0,Q.jsxs)(EU,{style:{fontSize:`13px`,color:`#475569`},children:[(0,Q.jsx)(`strong`,{children:r.length}),` `,r.length===1?`candidate`:`candidates`,` \xA0•\xA0 A4 Portrait`]})]}),(0,Q.jsxs)(`div`,{className:`ocapd-toolbar-right`,children:[(0,Q.jsx)(jF,{type:`primary`,size:`large`,icon:(0,Q.jsx)(yH,{}),onClick:()=>window.print(),style:{background:`#004b93`,borderColor:`#004b93`,fontWeight:700,padding:`0 24px`},children:`Print All Applications`}),n&&(0,Q.jsx)(jF,{size:`large`,icon:(0,Q.jsx)(iH,{}),onClick:n,style:{fontWeight:600},children:`Return to Portal`})]})]}),r.map((e,t)=>(0,Q.jsx)(DU,{student:e},e.SN||t))]})]})};function kU(e){let t=e.split(`,`)[1],n=atob(t),r=n.length,i=new Uint8Array(r);for(let e=0;e<r;e++)i[e]=n.charCodeAt(e);return i}async function AU(e,t,n){if(t.length===0)throw Error(`No students provided`);let r=new AH.default(e),i=r.file(`word/document.xml`)?.asText()||``,a=r.file(`word/header1.xml`)?.asText()||``,o=r.file(`word/header2.xml`)?.asText()||``,s=r.file(`word/header3.xml`)?.asText()||``,c=r.file(`word/footer1.xml`)?.asText()||``,l=r.file(`word/footer2.xml`)?.asText()||``,u=r.file(`word/footer3.xml`)?.asText()||``,d=r.file(`word/_rels/header2.xml.rels`)?.asText()||``,f=r.file(`word/_rels/document.xml.rels`)?.asText()||``,p=r.file(`[Content_Types].xml`)?.asText()||``;p.includes(`Extension="png"`)||(p=p.replace(`</Types>`,`<Default Extension="png" ContentType="image/png"/></Types>`));let m=``,h=17,g=4,_=100;for(let v=0;v<t.length;v++){let y=t[v],b=v+1,x=`media/qr_${b}.png`,S=vU({fn:y.FullName||`${y.FirstName||``} ${y.MiddleName||``} ${y.LastName||``}`.trim(),gn:y.Gender||``,id:y.LabourID||y.RegNo||y.SN||``,co:y.Subject||`Domestic`,sd:y.TrainingStartDate||y.StartDate||``,ed:y.TrainingEndDate||y.EndDate||``,cn:`MA-TVET-${String(y.SN||b).padStart(4,`0`)}`,iss:new Date().toISOString().split(`T`)[0]}),C=`${(n||`https://melkaadama.pro.et`).replace(/\/+$/,``)}/?cert=${S}`,w=kU(await _U.toDataURL(C,{margin:1,width:400,errorCorrectionLevel:`L`}));r.file(`word/${x}`,w);let T=``;try{let t=new AH.default(e.slice(0)),n=new kH.default(t,{paragraphLoop:!0,linebreaks:!0,nullGetter:()=>``});n.render(y);let r=(n.getZip().file(`word/document.xml`)?.asText()||``).match(/<w:body>([\s\S]*?)<\/w:body>/);T=(r?r[1]:``).replace(/<w:sectPr[\s\S]*?<\/w:sectPr>/,``)}catch(e){console.error(`[DhaabbataLeenjii] Render failed for student ${b}:`,e);let t=i.match(/<w:body>([\s\S]*?)<\/w:body>/);T=(t?t[1]:``).replace(/<w:sectPr[\s\S]*?<\/w:sectPr>/,``)}T=T.replace(/<wp:docPr id="[^"]*"/g,()=>`<wp:docPr id="${_++}"`),T=T.replace(/<w:bookmarkStart[^>]*_GoBack[^>]*\/>/g,``).replace(/<w:bookmarkEnd[^>]*\/>/g,``);let E,D,O,k,A,j;if(v===0){E=`rId9`,D=`rId10`,k=`rId11`,A=`rId12`,O=`rId13`,j=`rId14`;let e=d.replace(/Target="[^"]*"/,`Target="${x}"`);r.file(`word/_rels/header2.xml.rels`,e);let t=o.replace(/<wp:docPr id="[^"]*"/g,()=>`<wp:docPr id="${_++}"`);r.file(`word/header2.xml`,t)}else{let e=`header${g++}.xml`,t=`header${g++}.xml`,n=`header${g++}.xml`,i=`footer${g++}.xml`,m=`footer${g++}.xml`,v=`footer${g++}.xml`;E=`rId${h++}`,D=`rId${h++}`,O=`rId${h++}`,k=`rId${h++}`,A=`rId${h++}`,j=`rId${h++}`;let y=o.replace(/<wp:docPr id="[^"]*"/g,()=>`<wp:docPr id="${_++}"`),b=d.replace(/Target="[^"]*"/,`Target="${x}"`);r.file(`word/${e}`,a),r.file(`word/${t}`,y),r.file(`word/_rels/${t}.rels`,b),r.file(`word/${n}`,s),r.file(`word/${i}`,c),r.file(`word/${m}`,l),r.file(`word/${v}`,u),p=p.replace(`</Types>`,`<Override PartName="/word/${e}" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.header+xml"/><Override PartName="/word/${t}" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.header+xml"/><Override PartName="/word/${n}" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.header+xml"/><Override PartName="/word/${i}" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.footer+xml"/><Override PartName="/word/${m}" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.footer+xml"/><Override PartName="/word/${v}" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.footer+xml"/></Types>`),f=f.replace(`</Relationships>`,`<Relationship Id="${E}" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/header" Target="${e}"/><Relationship Id="${D}" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/header" Target="${t}"/><Relationship Id="${O}" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/header" Target="${n}"/><Relationship Id="${k}" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/footer" Target="${i}"/><Relationship Id="${A}" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/footer" Target="${m}"/><Relationship Id="${j}" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/footer" Target="${v}"/></Relationships>`)}let M=`<w:sectPr w:rsidR="00050E70" w:rsidRPr="00E76F7C" w:rsidSect="00DC7B94"><w:headerReference w:type="even" r:id="${E}"/><w:headerReference w:type="default" r:id="${D}"/><w:footerReference w:type="even" r:id="${k}"/><w:footerReference w:type="default" r:id="${A}"/><w:headerReference w:type="first" r:id="${O}"/><w:footerReference w:type="first" r:id="${j}"/><w:pgSz w:w="15840" w:h="12240" w:orient="landscape"/><w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="1008" w:footer="864" w:gutter="0"/><w:pgBorders w:offsetFrom="page"><w:top w:val="flowersPansy" w:sz="31" w:space="24" w:color="auto"/><w:left w:val="flowersPansy" w:sz="31" w:space="24" w:color="auto"/><w:bottom w:val="flowersPansy" w:sz="31" w:space="24" w:color="auto"/><w:right w:val="flowersPansy" w:sz="31" w:space="24" w:color="auto"/></w:pgBorders><w:cols w:num="2" w:space="720"/><w:docGrid w:linePitch="360"/></w:sectPr>`;if(v<t.length-1){let e=T.lastIndexOf(`<w:p `),t=T.indexOf(`</w:p>`,e)+6,n=T.slice(e,t),r;r=n.includes(`</w:pPr>`)?n.replace(`</w:pPr>`,M+`</w:pPr>`):n.replace(`<w:p `,`<w:p><w:pPr>${M}</w:pPr>`),m+=T.slice(0,e)+r}else m+=T+M}return r.file(`[Content_Types].xml`,p),r.file(`word/_rels/document.xml.rels`,f),r.file(`word/document.xml`,i.replace(/<w:body>[\s\S]*?<\/w:body>/,`<w:body>${m}</w:body>`)),r.generate({type:`blob`,mimeType:`application/vnd.openxmlformats-officedocument.wordprocessingml.document`})}function jU(e){if(e==null)return``;let t=String(e).trim();if(!t)return``;let n=Number(t);if(!isNaN(n)&&n>2e4&&n<6e4){let e=new Date(Math.round((n-25569)*86400*1e3));return`${String(e.getUTCDate()).padStart(2,`0`)}/${String(e.getUTCMonth()+1).padStart(2,`0`)}/${e.getUTCFullYear()}`}let r=t.split(`/`);if(r.length===3){let[e,t,n]=r;return n.length===2&&(n=`20`+n),`${e.padStart(2,`0`)}/${t.padStart(2,`0`)}/${n}`}let i=t.split(`-`);if(i.length===3){let[e,t,n]=i;return e.length===4?`${n.padStart(2,`0`)}/${t.padStart(2,`0`)}/${e}`:(n.length===2&&(n=`20`+n),`${e.padStart(2,`0`)}/${t.padStart(2,`0`)}/${n}`)}return t}var{Title:MU,Text:NU}=lV,{Header:PU,Content:FU}=OR,{Dragger:IU}=tH;function LU(e){if(e.length===0)throw Error(`No buffers to merge`);let t=new AH.default(e[0]),n=t.file(`word/document.xml`).asText(),r=e=>{let t=e.match(/<w:body>([\s\S]*?)<\/w:body>/),n=e.match(/<w:sectPr[\s\S]*?<\/w:sectPr>/);return{body:t?t[1]:``,sect:n?n[0]:``}},{body:i,sect:a}=r(n),o=i+a;for(let t=1;t<e.length;t++){let{body:n,sect:i}=r(new AH.default(e[t]).file(`word/document.xml`).asText());o+=`<w:p><w:r><w:br w:type="page"/></w:r></w:p>`+n+i}let s=n.replace(/<w:body[\s\S]*?<\/w:body>/,`<w:body>${o}</w:body>`);return t.file(`word/document.xml`,s),RU(t),t.generate({type:`blob`,mimeType:`application/vnd.openxmlformats-officedocument.wordprocessingml.document`})}function RU(e){let t=e.file(`word/settings.xml`);if(!t)return;let n=t.asText();if(n.includes(`updateFields`))return;let r=n.replace(/<\/w:settings>/,`<w:updateFields w:val="true"/></w:settings>`);e.file(`word/settings.xml`,r)}function zU(e){let t=Sm(e,{type:`array`}),n=t.SheetNames[0],r=t.Sheets[n],i=Hm.sheet_to_json(r,{header:1,raw:!1,defval:``}),a=Hm.sheet_to_json(r,{header:1,raw:!0,defval:``}),o=[],s=[];for(let e=0;e<i.length;e++){let t=i[e];if(!t||t.length===0)continue;let n=parseInt(String(t[0]||``));if(isNaN(n)||!t[1]||String(t[1]).trim()===``)continue;let r=String(t[1]||``).trim(),c=r.split(/\s+/),l=String(t[3]||``).trim(),u=String(t[4]||``).trim(),d=String(t[5]||``).trim(),f=``;if(d){let e=parseInt(d,10);!isNaN(e)&&e>1900&&e<2100&&(f=(new Date().getFullYear()-e).toString())}let p=l&&u&&d?`${l.padStart(2,`0`)}/${u.padStart(2,`0`)}/${d}`:``,m=t[13]||a[e]?.[13]||``,h=t[14]||a[e]?.[14]||``,g=jU(m),_=jU(h),v={fn:r,gn:String(t[2]||``).trim(),id:String(t[11]||t[0]||``).trim(),co:String(t[7]||``).trim()||`Housekeeping & Domestic Work Services`,sd:g,ed:_,hrs:`244`,ins:`Melka Adama TVET Center`,cn:`MA-TVET-${String(n).padStart(4,`0`)}`,iss:_||new Date().toISOString().split(`T`)[0],by:`Abduselam Kasim (Dean)`};s.push(v);let y=`https://melkaadama.pro.et/?cert=${vU(v)}`;o.push({SN:String(t[0]||``).trim(),sn:String(t[0]||``).trim(),"S/N":String(t[0]||``).trim(),"s/n":String(t[0]||``).trim(),Serial:String(t[0]||``).trim(),serial:String(t[0]||``).trim(),No:String(t[0]||``).trim(),no:String(t[0]||``).trim(),FullName:r,FirstName:c[0]||``,MiddleName:c[1]||``,LastName:c.slice(2).join(` `)||``,Gender:String(t[2]||``).trim(),BirthDate:l,BirthDay:l,Day:l,BirthMonth:u,Month:u,YearOfBirth:d,BirthYear:d,Year:d,YearGC:d,DOB:p,DateOfBirth:p,FullBirthDate:p,Age:f,EducationLevel:String(t[6]||``).trim(),Subject:String(t[7]||``).trim(),Region:String(t[8]||``).trim(),CityZone:String(t[9]||``).trim(),DistrictKebele:String(t[10]||``).trim(),LabourID:String(t[11]||``).trim(),PassportNumber:String(t[12]||``).trim(),TrainingStartDate:g,StartDate:g,TrainingEndDate:_,EndDate:_,TrainingSchedule:g&&_?`${g} - ${_}`:g||_,PhoneNumber1:String(t[15]||``).trim(),PhoneNumber2:String(t[16]||``).trim(),Branch:String(t[9]||t[8]||`Melka Adama`).trim(),AssessmentCenter:`Melka Adama`,QrUrl:y})}return{students:o,certs:s}}var BU=e=>new Promise(t=>setTimeout(t,e));function VU(){let[e,t]=(0,_.useState)(null),[n,r]=(0,_.useState)(!1),[i,a]=(0,_.useState)(``),[o,s]=(0,_.useState)(0),[c,l]=(0,_.useState)(null),[u,d]=(0,_.useState)(!1),[f,p]=(0,_.useState)(null),[m,h]=(0,_.useState)(!1),[g,v]=(0,_.useState)(!1),[y,b]=(0,_.useState)(null),[x,S]=(0,_.useState)(!1),[C,w]=(0,_.useState)(()=>{try{if(new URLSearchParams(window.location.search).get(`cert`)||window.location.hash.match(/cert=([^&]+)/))return!0}catch{}return!1}),[T,E]=(0,_.useState)(()=>{try{let e=new URLSearchParams(window.location.search).get(`cert`);if(e)return yU(e);let t=window.location.hash.match(/cert=([^&]+)/);if(t)return yU(t[1])}catch(e){console.error(`Error reading certificate URL param:`,e)}return null}),D=async()=>{if(y&&y.length>0)return y;if(!e)return dz.error(`Please upload an Excel file first!`),null;try{S(!0);let{students:t,certs:n}=zU(await e.arrayBuffer());return t.length===0?(dz.warning(`No valid student rows found in the Excel file!`),null):(b(t),f||p(n),t)}catch(e){return console.error(`Failed to parse Excel file:`,e),dz.error(`Failed to parse Excel file.`),null}finally{S(!1)}},O=async()=>{await D()&&h(!0)},k=async()=>{await D()&&v(!0)};return m&&y?(0,Q.jsx)(TU,{students:y,onClose:()=>h(!1)}):g&&y?(0,Q.jsx)(OU,{students:y,onClose:()=>v(!1)}):T?(0,Q.jsx)(xU,{data:T,onBack:C?void 0:()=>{let e=window.location.origin+window.location.pathname;window.history.pushState({},``,e),E(null),w(!1)}}):c?(0,Q.jsx)(xU,{certificates:c,onBack:()=>l(null)}):(0,Q.jsxs)(OR,{style:{minHeight:`100vh`,backgroundColor:`#f0f2f5`},children:[(0,Q.jsx)(PU,{style:{background:`#fff`,display:`flex`,alignItems:`center`,justifyContent:`center`,padding:`0 20px`,boxShadow:`0 2px 8px rgba(0,0,0,0.06)`,height:`80px`},children:(0,Q.jsx)(MU,{level:3,style:{margin:0,color:`#001529`,textAlign:`center`},children:BH.instituteName.english})}),(0,Q.jsx)(FU,{style:{padding:`40px 20px`,display:`flex`,justifyContent:`center`},children:(0,Q.jsx)(`div`,{style:{maxWidth:`700px`,width:`100%`},children:(0,Q.jsxs)(wL,{bordered:!1,style:{borderRadius:`12px`,boxShadow:`0 4px 12px rgba(0,0,0,0.05)`},children:[(0,Q.jsxs)(`div`,{style:{textAlign:`center`,marginBottom:`30px`},children:[(0,Q.jsx)(MU,{level:4,style:{marginBottom:`8px`},children:`Batch Document & Certificate Generator`}),(0,Q.jsx)(NU,{type:`secondary`,style:{fontSize:`15px`},children:`Upload your Excel student list to instantly generate customized Word documents, Admission Cards, OC/APD forms, and digital certificates.`})]}),(0,Q.jsxs)(IU,{name:`file`,multiple:!1,accept:`.xlsx,.xls`,beforeUpload:e=>(t(e),dz.success(`${e.name} ready for processing.`),!1),onRemove:()=>{t(null)},disabled:n||u||x,style:{padding:`30px`,background:`#fafafa`,borderRadius:`8px`},children:[(0,Q.jsx)(`p`,{className:`ant-upload-drag-icon`,children:(0,Q.jsx)(uH,{style:{color:`#52c41a`,fontSize:`48px`}})}),(0,Q.jsx)(`p`,{className:`ant-upload-text`,style:{fontSize:`16px`,fontWeight:500},children:`Click or drag your Excel file to this area`}),(0,Q.jsx)(`p`,{className:`ant-upload-hint`,style:{color:`#8c8c8c`},children:`Only .xlsx or .xls files are supported.`})]}),(0,Q.jsxs)(`div`,{style:{marginTop:`26px`,display:`flex`,flexDirection:`column`,gap:`12px`},children:[(0,Q.jsx)(jF,{type:`primary`,size:`large`,block:!0,onClick:async()=>{if(!e){dz.error(`Please upload an Excel file first!`);return}r(!0),s(5),a(`Reading Excel file and parsing student list...`);try{let{students:t,certs:n}=zU(await e.arrayBuffer());if(p(n),t.length===0){dz.warning(`No valid student rows found in the Excel file!`),r(!1),s(0),a(``);return}s(15),a(`Parsed ${t.length} students. Generating Dhaabbata Leenjii (1 of 4)...`);let i=async()=>{let e=await(await fetch(`/OF_OCAPD_Application.docx?v=${Date.now()}`,{cache:`no-store`})).arrayBuffer(),n=new AH.default(e),r=n.file(`word/document.xml`)?.asText()||``,i=n.file(/word\/header\d+\.xml/),a=i.find(e=>e.asText().includes(`{SN`))||i[0],o=a?.name.replace(`word/`,``)||`header2.xml`,s=a?.asText()||``,c=(e,t)=>e.replace(/\{SN<\/w:t><\/w:r>[\s\S]*?<w:r[^>]*><w:rPr>[\s\S]*?<\/w:rPr><w:t>\}/gi,t).replace(/\{SN<\/w:t><\/w:r>[\s\S]*?<w:r[^>]*><w:t>\}/gi,t).replace(/\{SN\}/gi,t).replace(/\{S\/N\}/gi,t),l=n.file(`word/_rels/document.xml.rels`)?.asText()||``,u=n.file(`[Content_Types].xml`)?.asText()||``,d=r.match(/<w:sectPr[\s\S]*?<\/w:sectPr>/);if(!d)throw Error(`Could not find sectPr in OF_OCAPD_Application template`);let f=d[0],p=``;for(let i=0;i<t.length;i++){let a=t[i],d=i+1,m=`header_app_${d}.xml`,h=`rIdAppHeader_${d}`,g=String(a.SN||d),_=c(s,g),v=`<w:txbxContent><w:p w:rsidR="006D4750" w:rsidRDefault="006521FE"><w:pPr><w:pStyle w:val="Header"/><w:rPr><w:rFonts w:ascii="Helvetica World" w:hAnsi="Helvetica World" w:cs="Helvetica World"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Helvetica World" w:hAnsi="Helvetica World" w:cs="Helvetica World"/></w:rPr><w:t>Page ${d} of ${t.length}</w:t></w:r></w:p></w:txbxContent>`;_=_.replace(/<w:txbxContent>[\s\S]*?<\/w:txbxContent>/g,v),n.file(`word/${m}`,_);let y=n.file(`word/_rels/${o}.rels`)?.asText();y&&n.file(`word/_rels/${m}.rels`,y),u.includes(`/word/${m}`)||(u=u.replace(`</Types>`,`<Override PartName="/word/${m}" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.header+xml"/></Types>`)),l.includes(m)||(l=l.replace(`</Relationships>`,`<Relationship Id="${h}" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/header" Target="${m}"/></Relationships>`));let b=``;try{let t=new AH.default(e.slice(0)),n=new kH.default(t,{paragraphLoop:!0,linebreaks:!0,nullGetter:()=>``});n.render({...a,SN:g}),b=n.getZip().file(`word/document.xml`)?.asText()||``}catch(e){console.error(`[AppTemplate] Render error for student ${d}:`,e),b=r}let x=b.match(/<w:body>([\s\S]*?)<\/w:body>/),S=(x?x[1]:``).replace(/<w:sectPr[\s\S]*?<\/w:sectPr>/,``),C=f.replace(/<w:headerReference[^>]*\/>/g,``).replace(/(<w:sectPr[^>]*>)/,`$1<w:headerReference w:type="default" r:id="${h}"/><w:headerReference w:type="even" r:id="${h}"/><w:headerReference w:type="first" r:id="${h}"/>`);i<t.length-1?p+=`${S}<w:p><w:pPr>${C}</w:pPr></w:p>`:p+=`${S}${C}`}n.file(`[Content_Types].xml`,u),n.file(`word/_rels/document.xml.rels`,l),n.file(`word/document.xml`,r.replace(/<w:body>[\s\S]*?<\/w:body>/,`<w:body>${p}</w:body>`)),RU(n);let m=n.generate({type:`blob`,mimeType:`application/vnd.openxmlformats-officedocument.wordprocessingml.document`});(0,jH.saveAs)(m,`Generated_OF_OCAPD_Application.docx`)},o=async()=>{let e=await(await fetch(`/AdmissionCard.docx?v=${Date.now()}`,{cache:`no-store`})).arrayBuffer(),n=[];for(let e=0;e<t.length;e+=4)n.push(t.slice(e,e+4));console.log(`Total students`,t.length,`Chunks (4 per page)`,n.length);let r=LU(n.map(t=>{let n=new AH.default(e.slice(0)),r=new kH.default(n,{paragraphLoop:!0,linebreaks:!0,nullGetter:()=>``}),i=`SN.FullName.FirstName.MiddleName.LastName.Gender.Sex.BirthDate.BirthDay.Day.BirthMonth.Month.YearOfBirth.BirthYear.Year.YearGC.DOB.DateOfBirth.FullBirthDate.Age.EducationLevel.Subject.Occupation.Region.CityZone.Branch.DistrictKebele.LabourID.RegNo.PassportNumber.TrainingStartDate.StartDate.TrainingEndDate.EndDate.TrainingSchedule.PhoneNumber1.PhoneNumber2.AssessmentCenter`.split(`.`),a={};for(let e=1;e<=4;e++){let n=t[e-1];n?i.forEach(t=>{let r=String(n[t]||``);r||(t===`Sex`?r=n.Gender||``:t===`Branch`?r=n.CityZone||n.Region||`Melka Adama`:t===`RegNo`?r=n.LabourID||n.SN||``:t===`Occupation`?r=n.Subject||``:t===`AssessmentCenter`&&(r=n.AssessmentCenter||`Melka Adama`)),a[`${t}_${e}`]=r,a[`${t}${e}`]=r}):i.forEach(t=>{a[`${t}_${e}`]=``,a[`${t}${e}`]=``})}let o=t[0];return o&&i.forEach(e=>{let t=String(o[e]||``);t||(e===`Sex`?t=o.Gender||``:e===`Branch`?t=o.CityZone||o.Region||`Melka Adama`:e===`RegNo`?t=o.LabourID||o.SN||``:e===`Occupation`?t=o.Subject||``:e===`AssessmentCenter`&&(t=o.AssessmentCenter||`Melka Adama`)),a[e]=t}),r.render(a),r.getZip().generate({type:`arraybuffer`})}));(0,jH.saveAs)(r,`Generated_AdmissionCard.docx`)},c=await AU(await(await fetch(`/DhaabbataLeenjii.docx?v=${Date.now()}`,{cache:`no-store`})).arrayBuffer(),t,`https://melkaadama.pro.et`);(0,jH.saveAs)(c,`Generated_DhaabbataLeenjii.docx`),s(40),a(`Dhaabbata Leenjii with Digital Certificate QR downloaded. Generating Candidates Application Form...`),await BU(600),await i(),s(85),a(`Candidates Application downloaded. Generating Admission Cards (4 of 4)...`),await BU(600),await o(),s(100),a(`All 4 documents generated and downloaded!`),await BU(800),dz.success(`✅ Successfully generated all 4 documents for ${t.length} students!`)}catch(e){console.error(e),dz.error(`An error occurred during generation. Check the console for details.`)}finally{r(!1),s(0),a(``)}},loading:n,disabled:!e||n||u||x,style:{height:`52px`,fontSize:`16px`,borderRadius:`8px`,fontWeight:600,background:`#0c2340`,borderColor:`#0c2340`},children:n?`Generating Documents...`:`Generate Word Documents (4 Docs)`}),(0,Q.jsx)(jF,{type:`default`,size:`large`,block:!0,icon:(0,Q.jsx)(yH,{}),onClick:async()=>{if(!e){dz.error(`Please upload an Excel file first!`);return}d(!0);try{let{certs:t,students:n}=zU(await e.arrayBuffer());if(t.length===0){dz.warning(`No valid student rows found in the Excel file!`);return}l(t),y||b(n)}catch(e){console.error(`Failed to parse Excel file for digital certificates:`,e),dz.error(`Failed to parse Excel file for digital certificates.`)}finally{d(!1)}},loading:u,disabled:!e||n||u||x,style:{height:`52px`,fontSize:`16px`,borderRadius:`8px`,fontWeight:600,color:`#0c2340`,borderColor:`#c59b27`,background:`#fdfbf7`},children:u?`Loading Certificates...`:`Print All Digital Certificates`}),(0,Q.jsx)(jF,{type:`default`,size:`large`,block:!0,icon:(0,Q.jsx)(gH,{}),onClick:O,loading:x,disabled:!e||n||u||x,style:{height:`52px`,fontSize:`16px`,borderRadius:`8px`,fontWeight:600,color:`#1565c0`,borderColor:`#1565c0`,background:`#f0f7ff`},children:`Print Candidate Admission Cards (4 per Page • Web)`}),(0,Q.jsx)(jF,{type:`default`,size:`large`,block:!0,icon:(0,Q.jsx)(pH,{}),onClick:k,loading:x,disabled:!e||n||u||x,style:{height:`52px`,fontSize:`16px`,borderRadius:`8px`,fontWeight:600,color:`#2e7d32`,borderColor:`#2e7d32`,background:`#f6ffed`},children:`Print OC/APD Application Forms (Web)`})]}),n&&(0,Q.jsxs)(`div`,{style:{marginTop:`24px`,padding:`24px`,background:`#f6ffed`,border:`1px solid #b7eb8f`,borderRadius:`10px`,textAlign:`center`},children:[(0,Q.jsx)(YR,{size:`large`}),(0,Q.jsx)(`div`,{style:{marginTop:`14px`,fontWeight:600,fontSize:`16px`,color:`#135200`},children:i}),(0,Q.jsx)(`div`,{style:{marginTop:`12px`},children:(0,Q.jsx)(Wz,{percent:o,status:o===100?`success`:`active`,strokeColor:{"0%":`#108ee9`,"100%":`#52c41a`}})}),(0,Q.jsx)(NU,{type:`secondary`,style:{fontSize:`13px`},children:`Please keep this window open until all documents are generated and downloaded.`})]}),f&&f.length>0&&!n&&(0,Q.jsxs)(`div`,{style:{marginTop:`20px`,padding:`16px`,background:`#f0fdf4`,border:`1px solid #bbf7d0`,borderRadius:`8px`,textAlign:`center`},children:[(0,Q.jsxs)(NU,{strong:!0,style:{color:`#166534`,fontSize:`14px`,display:`block`,marginBottom:`8px`},children:[`Documents generated successfully for `,f.length,` students!`]}),(0,Q.jsxs)(`div`,{style:{display:`flex`,gap:`8px`,justifyContent:`center`,flexWrap:`wrap`},children:[(0,Q.jsxs)(jF,{type:`primary`,icon:(0,Q.jsx)(yH,{}),onClick:()=>l(f),style:{background:`#2e7d32`,borderColor:`#2e7d32`,fontWeight:600},children:[`Print Certificates (`,f.length,`)`]}),(0,Q.jsx)(jF,{type:`default`,icon:(0,Q.jsx)(gH,{}),onClick:O,style:{borderColor:`#1565c0`,color:`#1565c0`,fontWeight:600},children:`Print Admission Cards`}),(0,Q.jsx)(jF,{type:`default`,icon:(0,Q.jsx)(pH,{}),onClick:k,style:{borderColor:`#2e7d32`,color:`#2e7d32`,fontWeight:600},children:`Print OC/APD Forms`})]})]}),(0,Q.jsxs)(`div`,{style:{marginTop:`24px`,paddingTop:`16px`,borderTop:`1px solid #f0f0f0`,textAlign:`center`},children:[(0,Q.jsx)(NU,{type:`secondary`,style:{display:`block`,marginBottom:`10px`,fontSize:`13px`},children:`Quick Previews (Without Excel):`}),(0,Q.jsxs)(`div`,{style:{display:`flex`,justifyContent:`center`,gap:`8px`,flexWrap:`wrap`},children:[(0,Q.jsx)(jF,{type:`dashed`,icon:(0,Q.jsx)(SH,{}),onClick:()=>{w(!1),E({fn:`Hawani Tolosa Gudeta`,gn:`Female`,id:`ET-MA-94821`,co:BH.defaultOccupation,sd:`01/01/2025`,ed:`30/03/2025`,hrs:BH.defaultHours,ins:BH.instituteName.short,cn:`${BH.certPrefix}-0042`,iss:`30/03/2025`,by:BH.dean})},children:`Preview Certificate`}),(0,Q.jsx)(jF,{type:`dashed`,icon:(0,Q.jsx)(gH,{}),onClick:()=>{let e={SN:`0001`,FullName:`Hawani Tolosa Gudeta`,FirstName:`Hawani`,MiddleName:`Tolosa`,LastName:`Gudeta`,Gender:`Female`,BirthDate:`15/05/2002`,BirthMonth:`05`,YearOfBirth:`2002`,Age:`23`,EducationLevel:`Grade 10`,Subject:BH.defaultOccupation,Region:`Oromia`,CityZone:`Adama`,DistrictKebele:`Boku/02`,LabourID:`ET-MA-94821`,PassportNumber:`EP1234567`,TrainingStartDate:`01/01/2025`,TrainingEndDate:`30/03/2025`,PhoneNumber1:`0910949299`,PhoneNumber2:`0983782330`};b([e,{...e,SN:`0002`,FullName:`Obsi Desta Keneni`,FirstName:`Obsi`,MiddleName:`Desta`,LastName:`Keneni`,Gender:`Female`},{...e,SN:`0003`,FullName:`Chaltu Bekele Tadesse`,FirstName:`Chaltu`,MiddleName:`Bekele`,LastName:`Tadesse`,Gender:`Female`},{...e,SN:`0004`,FullName:`Sifan Gemechu Feyisa`,FirstName:`Sifan`,MiddleName:`Gemechu`,LastName:`Feyisa`,Gender:`Female`}]),h(!0)},children:`Preview Admission Cards`}),(0,Q.jsx)(jF,{type:`dashed`,icon:(0,Q.jsx)(pH,{}),onClick:()=>{let e={SN:`0001`,FullName:`Hawani Tolosa Gudeta`,FirstName:`Hawani`,MiddleName:`Tolosa`,LastName:`Gudeta`,Gender:`Female`,BirthDate:`15/05/2002`,BirthMonth:`05`,YearOfBirth:`2002`,Age:`23`,EducationLevel:`Grade 10`,Subject:BH.defaultOccupation,Region:`Oromia`,CityZone:`Adama`,DistrictKebele:`Boku/02`,LabourID:`ET-MA-94821`,PassportNumber:`EP1234567`,TrainingStartDate:`01/01/2025`,TrainingEndDate:`30/03/2025`,PhoneNumber1:`0910949299`,PhoneNumber2:`0983782330`};b([e]),v(!0)},children:`Preview OC/APD Form`})]})]})]})})})]})}(0,v.createRoot)(document.getElementById(`root`)).render((0,Q.jsx)(_.StrictMode,{children:(0,Q.jsx)(VU,{})}));
+      `}),(0,Q.jsxs)(`div`,{className:`ocapd-app-shell`,children:[(0,Q.jsxs)(`div`,{className:`no-print ocapd-toolbar-card`,children:[(0,Q.jsxs)(`div`,{className:`ocapd-toolbar-left`,children:[(0,Q.jsx)(oB,{icon:(0,Q.jsx)(pH,{}),color:`green`,style:{fontSize:`14px`,padding:`5px 12px`,fontWeight:700},children:`OF/OCAPD/001 — Candidates Assessment Application Form`}),(0,Q.jsxs)(EU,{style:{fontSize:`13px`,color:`#475569`},children:[(0,Q.jsx)(`strong`,{children:r.length}),` `,r.length===1?`candidate`:`candidates`,` \xA0•\xA0 A4 Portrait`]})]}),(0,Q.jsxs)(`div`,{className:`ocapd-toolbar-right`,children:[(0,Q.jsx)(jF,{type:`primary`,size:`large`,icon:(0,Q.jsx)(yH,{}),onClick:()=>window.print(),style:{background:`#004b93`,borderColor:`#004b93`,fontWeight:700,padding:`0 24px`},children:`Print All Applications`}),n&&(0,Q.jsx)(jF,{size:`large`,icon:(0,Q.jsx)(iH,{}),onClick:n,style:{fontWeight:600},children:`Return to Portal`})]})]}),r.map((e,t)=>(0,Q.jsx)(DU,{student:e,pageNumber:t+1,totalPages:r.length},e.SN||t))]})]})};function kU(e){let t=e.split(`,`)[1],n=atob(t),r=n.length,i=new Uint8Array(r);for(let e=0;e<r;e++)i[e]=n.charCodeAt(e);return i}async function AU(e,t,n){if(t.length===0)throw Error(`No students provided`);let r=new AH.default(e),i=r.file(`word/document.xml`)?.asText()||``,a=r.file(`word/header1.xml`)?.asText()||``,o=r.file(`word/header2.xml`)?.asText()||``,s=r.file(`word/header3.xml`)?.asText()||``,c=r.file(`word/footer1.xml`)?.asText()||``,l=r.file(`word/footer2.xml`)?.asText()||``,u=r.file(`word/footer3.xml`)?.asText()||``,d=r.file(`word/_rels/header2.xml.rels`)?.asText()||``,f=r.file(`word/_rels/document.xml.rels`)?.asText()||``,p=r.file(`[Content_Types].xml`)?.asText()||``;p.includes(`Extension="png"`)||(p=p.replace(`</Types>`,`<Default Extension="png" ContentType="image/png"/></Types>`));let m=``,h=17,g=4,_=100;for(let v=0;v<t.length;v++){let y=t[v],b=v+1,x=`media/qr_${b}.png`,S=vU({fn:y.FullName||`${y.FirstName||``} ${y.MiddleName||``} ${y.LastName||``}`.trim(),gn:y.Gender||``,id:y.LabourID||y.RegNo||y.SN||``,co:y.Subject||`Domestic`,sd:y.TrainingStartDate||y.StartDate||``,ed:y.TrainingEndDate||y.EndDate||``,cn:`MA-TVET-${String(y.SN||b).padStart(4,`0`)}`,iss:new Date().toISOString().split(`T`)[0]}),C=`${(n||`https://melkaadama.pro.et`).replace(/\/+$/,``)}/?cert=${S}`,w=kU(await _U.toDataURL(C,{margin:1,width:400,errorCorrectionLevel:`L`}));r.file(`word/${x}`,w);let T=``;try{let t=new AH.default(e.slice(0)),n=new kH.default(t,{paragraphLoop:!0,linebreaks:!0,nullGetter:()=>``});n.render(y);let r=(n.getZip().file(`word/document.xml`)?.asText()||``).match(/<w:body>([\s\S]*?)<\/w:body>/);T=(r?r[1]:``).replace(/<w:sectPr[\s\S]*?<\/w:sectPr>/,``)}catch(e){console.error(`[DhaabbataLeenjii] Render failed for student ${b}:`,e);let t=i.match(/<w:body>([\s\S]*?)<\/w:body>/);T=(t?t[1]:``).replace(/<w:sectPr[\s\S]*?<\/w:sectPr>/,``)}T=T.replace(/<wp:docPr id="[^"]*"/g,()=>`<wp:docPr id="${_++}"`),T=T.replace(/<w:bookmarkStart[^>]*_GoBack[^>]*\/>/g,``).replace(/<w:bookmarkEnd[^>]*\/>/g,``);let E,D,O,k,A,j;if(v===0){E=`rId9`,D=`rId10`,k=`rId11`,A=`rId12`,O=`rId13`,j=`rId14`;let e=d.replace(/Target="[^"]*"/,`Target="${x}"`);r.file(`word/_rels/header2.xml.rels`,e);let t=o.replace(/<wp:docPr id="[^"]*"/g,()=>`<wp:docPr id="${_++}"`);r.file(`word/header2.xml`,t)}else{let e=`header${g++}.xml`,t=`header${g++}.xml`,n=`header${g++}.xml`,i=`footer${g++}.xml`,m=`footer${g++}.xml`,v=`footer${g++}.xml`;E=`rId${h++}`,D=`rId${h++}`,O=`rId${h++}`,k=`rId${h++}`,A=`rId${h++}`,j=`rId${h++}`;let y=o.replace(/<wp:docPr id="[^"]*"/g,()=>`<wp:docPr id="${_++}"`),b=d.replace(/Target="[^"]*"/,`Target="${x}"`);r.file(`word/${e}`,a),r.file(`word/${t}`,y),r.file(`word/_rels/${t}.rels`,b),r.file(`word/${n}`,s),r.file(`word/${i}`,c),r.file(`word/${m}`,l),r.file(`word/${v}`,u),p=p.replace(`</Types>`,`<Override PartName="/word/${e}" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.header+xml"/><Override PartName="/word/${t}" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.header+xml"/><Override PartName="/word/${n}" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.header+xml"/><Override PartName="/word/${i}" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.footer+xml"/><Override PartName="/word/${m}" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.footer+xml"/><Override PartName="/word/${v}" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.footer+xml"/></Types>`),f=f.replace(`</Relationships>`,`<Relationship Id="${E}" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/header" Target="${e}"/><Relationship Id="${D}" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/header" Target="${t}"/><Relationship Id="${O}" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/header" Target="${n}"/><Relationship Id="${k}" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/footer" Target="${i}"/><Relationship Id="${A}" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/footer" Target="${m}"/><Relationship Id="${j}" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/footer" Target="${v}"/></Relationships>`)}let M=`<w:sectPr w:rsidR="00050E70" w:rsidRPr="00E76F7C" w:rsidSect="00DC7B94"><w:headerReference w:type="even" r:id="${E}"/><w:headerReference w:type="default" r:id="${D}"/><w:footerReference w:type="even" r:id="${k}"/><w:footerReference w:type="default" r:id="${A}"/><w:headerReference w:type="first" r:id="${O}"/><w:footerReference w:type="first" r:id="${j}"/><w:pgSz w:w="15840" w:h="12240" w:orient="landscape"/><w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="1008" w:footer="864" w:gutter="0"/><w:pgBorders w:offsetFrom="page"><w:top w:val="flowersPansy" w:sz="31" w:space="24" w:color="auto"/><w:left w:val="flowersPansy" w:sz="31" w:space="24" w:color="auto"/><w:bottom w:val="flowersPansy" w:sz="31" w:space="24" w:color="auto"/><w:right w:val="flowersPansy" w:sz="31" w:space="24" w:color="auto"/></w:pgBorders><w:cols w:num="2" w:space="720"/><w:docGrid w:linePitch="360"/></w:sectPr>`;if(v<t.length-1){let e=T.lastIndexOf(`<w:p `),t=T.indexOf(`</w:p>`,e)+6,n=T.slice(e,t),r;r=n.includes(`</w:pPr>`)?n.replace(`</w:pPr>`,M+`</w:pPr>`):n.replace(`<w:p `,`<w:p><w:pPr>${M}</w:pPr>`),m+=T.slice(0,e)+r}else m+=T+M}return r.file(`[Content_Types].xml`,p),r.file(`word/_rels/document.xml.rels`,f),r.file(`word/document.xml`,i.replace(/<w:body>[\s\S]*?<\/w:body>/,`<w:body>${m}</w:body>`)),r.generate({type:`blob`,mimeType:`application/vnd.openxmlformats-officedocument.wordprocessingml.document`})}function jU(e){if(e==null)return``;let t=String(e).trim();if(!t)return``;let n=Number(t);if(!isNaN(n)&&n>2e4&&n<6e4){let e=new Date(Math.round((n-25569)*86400*1e3));return`${String(e.getUTCDate()).padStart(2,`0`)}/${String(e.getUTCMonth()+1).padStart(2,`0`)}/${e.getUTCFullYear()}`}let r=t.split(`/`);if(r.length===3){let[e,t,n]=r;return n.length===2&&(n=`20`+n),`${e.padStart(2,`0`)}/${t.padStart(2,`0`)}/${n}`}let i=t.split(`-`);if(i.length===3){let[e,t,n]=i;return e.length===4?`${n.padStart(2,`0`)}/${t.padStart(2,`0`)}/${e}`:(n.length===2&&(n=`20`+n),`${e.padStart(2,`0`)}/${t.padStart(2,`0`)}/${n}`)}return t}var{Title:MU,Text:NU}=lV,{Header:PU,Content:FU}=OR,{Dragger:IU}=tH;function LU(e){if(e.length===0)throw Error(`No buffers to merge`);let t=new AH.default(e[0]),n=t.file(`word/document.xml`).asText(),r=e=>{let t=e.match(/<w:body>([\s\S]*?)<\/w:body>/),n=e.match(/<w:sectPr[\s\S]*?<\/w:sectPr>/);return{body:t?t[1]:``,sect:n?n[0]:``}},{body:i,sect:a}=r(n),o=i+a;for(let t=1;t<e.length;t++){let{body:n,sect:i}=r(new AH.default(e[t]).file(`word/document.xml`).asText());o+=`<w:p><w:r><w:br w:type="page"/></w:r></w:p>`+n+i}let s=n.replace(/<w:body[\s\S]*?<\/w:body>/,`<w:body>${o}</w:body>`);return t.file(`word/document.xml`,s),RU(t),t.generate({type:`blob`,mimeType:`application/vnd.openxmlformats-officedocument.wordprocessingml.document`})}function RU(e){let t=e.file(`word/settings.xml`);if(!t)return;let n=t.asText();if(n.includes(`updateFields`))return;let r=n.replace(/<\/w:settings>/,`<w:updateFields w:val="true"/></w:settings>`);e.file(`word/settings.xml`,r)}function zU(e){let t=Sm(e,{type:`array`}),n=t.SheetNames[0],r=t.Sheets[n],i=Hm.sheet_to_json(r,{header:1,raw:!1,defval:``}),a=Hm.sheet_to_json(r,{header:1,raw:!0,defval:``}),o=[],s=[];for(let e=0;e<i.length;e++){let t=i[e];if(!t||t.length===0)continue;let n=parseInt(String(t[0]||``));if(isNaN(n)||!t[1]||String(t[1]).trim()===``)continue;let r=String(t[1]||``).trim(),c=r.split(/\s+/),l=String(t[3]||``).trim(),u=String(t[4]||``).trim(),d=String(t[5]||``).trim(),f=``;if(d){let e=parseInt(d,10);!isNaN(e)&&e>1900&&e<2100&&(f=(new Date().getFullYear()-e).toString())}let p=l&&u&&d?`${l.padStart(2,`0`)}/${u.padStart(2,`0`)}/${d}`:``,m=t[13]||a[e]?.[13]||``,h=t[14]||a[e]?.[14]||``,g=jU(m),_=jU(h),v={fn:r,gn:String(t[2]||``).trim(),id:String(t[11]||t[0]||``).trim(),co:String(t[7]||``).trim()||`Housekeeping & Domestic Work Services`,sd:g,ed:_,hrs:`244`,ins:`Melka Adama TVET Center`,cn:`MA-TVET-${String(n).padStart(4,`0`)}`,iss:_||new Date().toISOString().split(`T`)[0],by:`Abduselam Kasim (Dean)`};s.push(v);let y=`https://melkaadama.pro.et/?cert=${vU(v)}`;o.push({SN:String(t[0]||``).trim(),sn:String(t[0]||``).trim(),"S/N":String(t[0]||``).trim(),"s/n":String(t[0]||``).trim(),Serial:String(t[0]||``).trim(),serial:String(t[0]||``).trim(),No:String(t[0]||``).trim(),no:String(t[0]||``).trim(),FullName:r,FirstName:c[0]||``,MiddleName:c[1]||``,LastName:c.slice(2).join(` `)||``,Gender:String(t[2]||``).trim(),BirthDate:l,BirthDay:l,Day:l,BirthMonth:u,Month:u,YearOfBirth:d,BirthYear:d,Year:d,YearGC:d,DOB:p,DateOfBirth:p,FullBirthDate:p,Age:f,EducationLevel:String(t[6]||``).trim(),Subject:String(t[7]||``).trim(),Region:String(t[8]||``).trim(),CityZone:String(t[9]||``).trim(),DistrictKebele:String(t[10]||``).trim(),LabourID:String(t[11]||``).trim(),PassportNumber:String(t[12]||``).trim(),TrainingStartDate:g,StartDate:g,TrainingEndDate:_,EndDate:_,TrainingSchedule:g&&_?`${g} - ${_}`:g||_,PhoneNumber1:String(t[15]||``).trim(),PhoneNumber2:String(t[16]||``).trim(),Branch:String(t[9]||t[8]||`Melka Adama`).trim(),AssessmentCenter:`Melka Adama`,QrUrl:y})}return{students:o,certs:s}}var BU=e=>new Promise(t=>setTimeout(t,e));function VU(){let[e,t]=(0,_.useState)(null),[n,r]=(0,_.useState)(!1),[i,a]=(0,_.useState)(``),[o,s]=(0,_.useState)(0),[c,l]=(0,_.useState)(null),[u,d]=(0,_.useState)(!1),[f,p]=(0,_.useState)(null),[m,h]=(0,_.useState)(!1),[g,v]=(0,_.useState)(!1),[y,b]=(0,_.useState)(null),[x,S]=(0,_.useState)(!1),[C,w]=(0,_.useState)(()=>{try{if(new URLSearchParams(window.location.search).get(`cert`)||window.location.hash.match(/cert=([^&]+)/))return!0}catch{}return!1}),[T,E]=(0,_.useState)(()=>{try{let e=new URLSearchParams(window.location.search).get(`cert`);if(e)return yU(e);let t=window.location.hash.match(/cert=([^&]+)/);if(t)return yU(t[1])}catch(e){console.error(`Error reading certificate URL param:`,e)}return null}),D=async()=>{if(y&&y.length>0)return y;if(!e)return dz.error(`Please upload an Excel file first!`),null;try{S(!0);let{students:t,certs:n}=zU(await e.arrayBuffer());return t.length===0?(dz.warning(`No valid student rows found in the Excel file!`),null):(b(t),f||p(n),t)}catch(e){return console.error(`Failed to parse Excel file:`,e),dz.error(`Failed to parse Excel file.`),null}finally{S(!1)}},O=async()=>{await D()&&h(!0)},k=async()=>{await D()&&v(!0)};return m&&y?(0,Q.jsx)(TU,{students:y,onClose:()=>h(!1)}):g&&y?(0,Q.jsx)(OU,{students:y,onClose:()=>v(!1)}):T?(0,Q.jsx)(xU,{data:T,onBack:C?void 0:()=>{let e=window.location.origin+window.location.pathname;window.history.pushState({},``,e),E(null),w(!1)}}):c?(0,Q.jsx)(xU,{certificates:c,onBack:()=>l(null)}):(0,Q.jsxs)(OR,{style:{minHeight:`100vh`,backgroundColor:`#f0f2f5`},children:[(0,Q.jsx)(PU,{style:{background:`#fff`,display:`flex`,alignItems:`center`,justifyContent:`center`,padding:`0 20px`,boxShadow:`0 2px 8px rgba(0,0,0,0.06)`,height:`80px`},children:(0,Q.jsx)(MU,{level:3,style:{margin:0,color:`#001529`,textAlign:`center`},children:BH.instituteName.english})}),(0,Q.jsx)(FU,{style:{padding:`40px 20px`,display:`flex`,justifyContent:`center`},children:(0,Q.jsx)(`div`,{style:{maxWidth:`700px`,width:`100%`},children:(0,Q.jsxs)(wL,{bordered:!1,style:{borderRadius:`12px`,boxShadow:`0 4px 12px rgba(0,0,0,0.05)`},children:[(0,Q.jsxs)(`div`,{style:{textAlign:`center`,marginBottom:`30px`},children:[(0,Q.jsx)(MU,{level:4,style:{marginBottom:`8px`},children:`Batch Document & Certificate Generator`}),(0,Q.jsx)(NU,{type:`secondary`,style:{fontSize:`15px`},children:`Upload your Excel student list to instantly generate customized Word documents, Admission Cards, OC/APD forms, and digital certificates.`})]}),(0,Q.jsxs)(IU,{name:`file`,multiple:!1,accept:`.xlsx,.xls`,beforeUpload:e=>(t(e),dz.success(`${e.name} ready for processing.`),!1),onRemove:()=>{t(null)},disabled:n||u||x,style:{padding:`30px`,background:`#fafafa`,borderRadius:`8px`},children:[(0,Q.jsx)(`p`,{className:`ant-upload-drag-icon`,children:(0,Q.jsx)(uH,{style:{color:`#52c41a`,fontSize:`48px`}})}),(0,Q.jsx)(`p`,{className:`ant-upload-text`,style:{fontSize:`16px`,fontWeight:500},children:`Click or drag your Excel file to this area`}),(0,Q.jsx)(`p`,{className:`ant-upload-hint`,style:{color:`#8c8c8c`},children:`Only .xlsx or .xls files are supported.`})]}),(0,Q.jsxs)(`div`,{style:{marginTop:`26px`,display:`flex`,flexDirection:`column`,gap:`12px`},children:[(0,Q.jsx)(jF,{type:`primary`,size:`large`,block:!0,onClick:async()=>{if(!e){dz.error(`Please upload an Excel file first!`);return}r(!0),s(5),a(`Reading Excel file and parsing student list...`);try{let{students:t,certs:n}=zU(await e.arrayBuffer());if(p(n),t.length===0){dz.warning(`No valid student rows found in the Excel file!`),r(!1),s(0),a(``);return}s(15),a(`Parsed ${t.length} students. Generating Dhaabbata Leenjii (1 of 4)...`);let i=async()=>{let e=await(await fetch(`/OF_OCAPD_Application.docx?v=${Date.now()}`,{cache:`no-store`})).arrayBuffer(),n=new AH.default(e),r=n.file(`word/document.xml`)?.asText()||``,i=n.file(/word\/header\d+\.xml/),a=i.find(e=>e.asText().includes(`{SN`))||i[0],o=a?.name.replace(`word/`,``)||`header2.xml`,s=a?.asText()||``,c=(e,t)=>e.replace(/\{SN<\/w:t><\/w:r>[\s\S]*?<w:r[^>]*><w:rPr>[\s\S]*?<\/w:rPr><w:t>\}/gi,t).replace(/\{SN<\/w:t><\/w:r>[\s\S]*?<w:r[^>]*><w:t>\}/gi,t).replace(/\{SN\}/gi,t).replace(/\{S\/N\}/gi,t),l=n.file(`word/_rels/document.xml.rels`)?.asText()||``,u=n.file(`[Content_Types].xml`)?.asText()||``,d=r.match(/<w:sectPr[\s\S]*?<\/w:sectPr>/);if(!d)throw Error(`Could not find sectPr in OF_OCAPD_Application template`);let f=d[0],p=``;for(let i=0;i<t.length;i++){let a=t[i],d=i+1,m=`header_app_${d}.xml`,h=`rIdAppHeader_${d}`,g=String(a.SN||d),_=c(s,g),v=`<w:txbxContent><w:p w:rsidR="006D4750" w:rsidRDefault="006521FE"><w:pPr><w:pStyle w:val="Header"/><w:rPr><w:rFonts w:ascii="Helvetica World" w:hAnsi="Helvetica World" w:cs="Helvetica World"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Helvetica World" w:hAnsi="Helvetica World" w:cs="Helvetica World"/></w:rPr><w:t>Page ${d} of ${t.length}</w:t></w:r></w:p></w:txbxContent>`;_=_.replace(/<w:txbxContent>[\s\S]*?<\/w:txbxContent>/g,v),n.file(`word/${m}`,_);let y=n.file(`word/_rels/${o}.rels`)?.asText();y&&n.file(`word/_rels/${m}.rels`,y),u.includes(`/word/${m}`)||(u=u.replace(`</Types>`,`<Override PartName="/word/${m}" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.header+xml"/></Types>`)),l.includes(m)||(l=l.replace(`</Relationships>`,`<Relationship Id="${h}" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/header" Target="${m}"/></Relationships>`));let b=``;try{let t=new AH.default(e.slice(0)),n=new kH.default(t,{paragraphLoop:!0,linebreaks:!0,nullGetter:()=>``});n.render({...a,SN:g}),b=n.getZip().file(`word/document.xml`)?.asText()||``}catch(e){console.error(`[AppTemplate] Render error for student ${d}:`,e),b=r}let x=b.match(/<w:body>([\s\S]*?)<\/w:body>/),S=(x?x[1]:``).replace(/<w:sectPr[\s\S]*?<\/w:sectPr>/,``),C=f.replace(/<w:headerReference[^>]*\/>/g,``).replace(/(<w:sectPr[^>]*>)/,`$1<w:headerReference w:type="default" r:id="${h}"/><w:headerReference w:type="even" r:id="${h}"/><w:headerReference w:type="first" r:id="${h}"/>`);i<t.length-1?p+=`${S}<w:p><w:pPr>${C}</w:pPr></w:p>`:p+=`${S}${C}`}n.file(`[Content_Types].xml`,u),n.file(`word/_rels/document.xml.rels`,l),n.file(`word/document.xml`,r.replace(/<w:body>[\s\S]*?<\/w:body>/,`<w:body>${p}</w:body>`)),RU(n);let m=n.generate({type:`blob`,mimeType:`application/vnd.openxmlformats-officedocument.wordprocessingml.document`});(0,jH.saveAs)(m,`Generated_OF_OCAPD_Application.docx`)},o=async()=>{let e=await(await fetch(`/AdmissionCard.docx?v=${Date.now()}`,{cache:`no-store`})).arrayBuffer(),n=[];for(let e=0;e<t.length;e+=4)n.push(t.slice(e,e+4));console.log(`Total students`,t.length,`Chunks (4 per page)`,n.length);let r=LU(n.map(t=>{let n=new AH.default(e.slice(0)),r=new kH.default(n,{paragraphLoop:!0,linebreaks:!0,nullGetter:()=>``}),i=`SN.FullName.FirstName.MiddleName.LastName.Gender.Sex.BirthDate.BirthDay.Day.BirthMonth.Month.YearOfBirth.BirthYear.Year.YearGC.DOB.DateOfBirth.FullBirthDate.Age.EducationLevel.Subject.Occupation.Region.CityZone.Branch.DistrictKebele.LabourID.RegNo.PassportNumber.TrainingStartDate.StartDate.TrainingEndDate.EndDate.TrainingSchedule.PhoneNumber1.PhoneNumber2.AssessmentCenter`.split(`.`),a={};for(let e=1;e<=4;e++){let n=t[e-1];n?i.forEach(t=>{let r=String(n[t]||``);r||(t===`Sex`?r=n.Gender||``:t===`Branch`?r=n.CityZone||n.Region||`Melka Adama`:t===`RegNo`?r=n.LabourID||n.SN||``:t===`Occupation`?r=n.Subject||``:t===`AssessmentCenter`&&(r=n.AssessmentCenter||`Melka Adama`)),a[`${t}_${e}`]=r,a[`${t}${e}`]=r}):i.forEach(t=>{a[`${t}_${e}`]=``,a[`${t}${e}`]=``})}let o=t[0];return o&&i.forEach(e=>{let t=String(o[e]||``);t||(e===`Sex`?t=o.Gender||``:e===`Branch`?t=o.CityZone||o.Region||`Melka Adama`:e===`RegNo`?t=o.LabourID||o.SN||``:e===`Occupation`?t=o.Subject||``:e===`AssessmentCenter`&&(t=o.AssessmentCenter||`Melka Adama`)),a[e]=t}),r.render(a),r.getZip().generate({type:`arraybuffer`})}));(0,jH.saveAs)(r,`Generated_AdmissionCard.docx`)},c=await AU(await(await fetch(`/DhaabbataLeenjii.docx?v=${Date.now()}`,{cache:`no-store`})).arrayBuffer(),t,`https://melkaadama.pro.et`);(0,jH.saveAs)(c,`Generated_DhaabbataLeenjii.docx`),s(40),a(`Dhaabbata Leenjii with Digital Certificate QR downloaded. Generating Candidates Application Form...`),await BU(600),await i(),s(85),a(`Candidates Application downloaded. Generating Admission Cards (4 of 4)...`),await BU(600),await o(),s(100),a(`All 4 documents generated and downloaded!`),await BU(800),dz.success(`✅ Successfully generated all 4 documents for ${t.length} students!`)}catch(e){console.error(e),dz.error(`An error occurred during generation. Check the console for details.`)}finally{r(!1),s(0),a(``)}},loading:n,disabled:!e||n||u||x,style:{height:`52px`,fontSize:`16px`,borderRadius:`8px`,fontWeight:600,background:`#0c2340`,borderColor:`#0c2340`},children:n?`Generating Documents...`:`Generate Word Documents (4 Docs)`}),(0,Q.jsx)(jF,{type:`default`,size:`large`,block:!0,icon:(0,Q.jsx)(yH,{}),onClick:async()=>{if(!e){dz.error(`Please upload an Excel file first!`);return}d(!0);try{let{certs:t,students:n}=zU(await e.arrayBuffer());if(t.length===0){dz.warning(`No valid student rows found in the Excel file!`);return}l(t),y||b(n)}catch(e){console.error(`Failed to parse Excel file for digital certificates:`,e),dz.error(`Failed to parse Excel file for digital certificates.`)}finally{d(!1)}},loading:u,disabled:!e||n||u||x,style:{height:`52px`,fontSize:`16px`,borderRadius:`8px`,fontWeight:600,color:`#0c2340`,borderColor:`#c59b27`,background:`#fdfbf7`},children:u?`Loading Certificates...`:`Print All Digital Certificates`}),(0,Q.jsx)(jF,{type:`default`,size:`large`,block:!0,icon:(0,Q.jsx)(gH,{}),onClick:O,loading:x,disabled:!e||n||u||x,style:{height:`52px`,fontSize:`16px`,borderRadius:`8px`,fontWeight:600,color:`#1565c0`,borderColor:`#1565c0`,background:`#f0f7ff`},children:`Print Candidate Admission Cards (4 per Page • Web)`}),(0,Q.jsx)(jF,{type:`default`,size:`large`,block:!0,icon:(0,Q.jsx)(pH,{}),onClick:k,loading:x,disabled:!e||n||u||x,style:{height:`52px`,fontSize:`16px`,borderRadius:`8px`,fontWeight:600,color:`#2e7d32`,borderColor:`#2e7d32`,background:`#f6ffed`},children:`Print OC/APD Application Forms (Web)`})]}),n&&(0,Q.jsxs)(`div`,{style:{marginTop:`24px`,padding:`24px`,background:`#f6ffed`,border:`1px solid #b7eb8f`,borderRadius:`10px`,textAlign:`center`},children:[(0,Q.jsx)(YR,{size:`large`}),(0,Q.jsx)(`div`,{style:{marginTop:`14px`,fontWeight:600,fontSize:`16px`,color:`#135200`},children:i}),(0,Q.jsx)(`div`,{style:{marginTop:`12px`},children:(0,Q.jsx)(Wz,{percent:o,status:o===100?`success`:`active`,strokeColor:{"0%":`#108ee9`,"100%":`#52c41a`}})}),(0,Q.jsx)(NU,{type:`secondary`,style:{fontSize:`13px`},children:`Please keep this window open until all documents are generated and downloaded.`})]}),f&&f.length>0&&!n&&(0,Q.jsxs)(`div`,{style:{marginTop:`20px`,padding:`16px`,background:`#f0fdf4`,border:`1px solid #bbf7d0`,borderRadius:`8px`,textAlign:`center`},children:[(0,Q.jsxs)(NU,{strong:!0,style:{color:`#166534`,fontSize:`14px`,display:`block`,marginBottom:`8px`},children:[`Documents generated successfully for `,f.length,` students!`]}),(0,Q.jsxs)(`div`,{style:{display:`flex`,gap:`8px`,justifyContent:`center`,flexWrap:`wrap`},children:[(0,Q.jsxs)(jF,{type:`primary`,icon:(0,Q.jsx)(yH,{}),onClick:()=>l(f),style:{background:`#2e7d32`,borderColor:`#2e7d32`,fontWeight:600},children:[`Print Certificates (`,f.length,`)`]}),(0,Q.jsx)(jF,{type:`default`,icon:(0,Q.jsx)(gH,{}),onClick:O,style:{borderColor:`#1565c0`,color:`#1565c0`,fontWeight:600},children:`Print Admission Cards`}),(0,Q.jsx)(jF,{type:`default`,icon:(0,Q.jsx)(pH,{}),onClick:k,style:{borderColor:`#2e7d32`,color:`#2e7d32`,fontWeight:600},children:`Print OC/APD Forms`})]})]}),(0,Q.jsxs)(`div`,{style:{marginTop:`24px`,paddingTop:`16px`,borderTop:`1px solid #f0f0f0`,textAlign:`center`},children:[(0,Q.jsx)(NU,{type:`secondary`,style:{display:`block`,marginBottom:`10px`,fontSize:`13px`},children:`Quick Previews (Without Excel):`}),(0,Q.jsxs)(`div`,{style:{display:`flex`,justifyContent:`center`,gap:`8px`,flexWrap:`wrap`},children:[(0,Q.jsx)(jF,{type:`dashed`,icon:(0,Q.jsx)(SH,{}),onClick:()=>{w(!1),E({fn:`Hawani Tolosa Gudeta`,gn:`Female`,id:`ET-MA-94821`,co:BH.defaultOccupation,sd:`01/01/2025`,ed:`30/03/2025`,hrs:BH.defaultHours,ins:BH.instituteName.short,cn:`${BH.certPrefix}-0042`,iss:`30/03/2025`,by:BH.dean})},children:`Preview Certificate`}),(0,Q.jsx)(jF,{type:`dashed`,icon:(0,Q.jsx)(gH,{}),onClick:()=>{let e={SN:`0001`,FullName:`Hawani Tolosa Gudeta`,FirstName:`Hawani`,MiddleName:`Tolosa`,LastName:`Gudeta`,Gender:`Female`,BirthDate:`15/05/2002`,BirthMonth:`05`,YearOfBirth:`2002`,Age:`23`,EducationLevel:`Grade 10`,Subject:BH.defaultOccupation,Region:`Oromia`,CityZone:`Adama`,DistrictKebele:`Boku/02`,LabourID:`ET-MA-94821`,PassportNumber:`EP1234567`,TrainingStartDate:`01/01/2025`,TrainingEndDate:`30/03/2025`,PhoneNumber1:`0910949299`,PhoneNumber2:`0983782330`};b([e,{...e,SN:`0002`,FullName:`Obsi Desta Keneni`,FirstName:`Obsi`,MiddleName:`Desta`,LastName:`Keneni`,Gender:`Female`},{...e,SN:`0003`,FullName:`Chaltu Bekele Tadesse`,FirstName:`Chaltu`,MiddleName:`Bekele`,LastName:`Tadesse`,Gender:`Female`},{...e,SN:`0004`,FullName:`Sifan Gemechu Feyisa`,FirstName:`Sifan`,MiddleName:`Gemechu`,LastName:`Feyisa`,Gender:`Female`}]),h(!0)},children:`Preview Admission Cards`}),(0,Q.jsx)(jF,{type:`dashed`,icon:(0,Q.jsx)(pH,{}),onClick:()=>{let e={SN:`0001`,FullName:`Hawani Tolosa Gudeta`,FirstName:`Hawani`,MiddleName:`Tolosa`,LastName:`Gudeta`,Gender:`Female`,BirthDate:`15/05/2002`,BirthMonth:`05`,YearOfBirth:`2002`,Age:`23`,EducationLevel:`Grade 10`,Subject:BH.defaultOccupation,Region:`Oromia`,CityZone:`Adama`,DistrictKebele:`Boku/02`,LabourID:`ET-MA-94821`,PassportNumber:`EP1234567`,TrainingStartDate:`01/01/2025`,TrainingEndDate:`30/03/2025`,PhoneNumber1:`0910949299`,PhoneNumber2:`0983782330`};b([e]),v(!0)},children:`Preview OC/APD Form`})]})]})]})})})]})}(0,v.createRoot)(document.getElementById(`root`)).render((0,Q.jsx)(_.StrictMode,{children:(0,Q.jsx)(VU,{})}));
